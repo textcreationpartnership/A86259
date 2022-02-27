@@ -1,0 +1,3328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His noble numbers, or, His pious pieces vvherein (amongst other things) he sings the birth of his Christ : and sighes for his Saviours suffering on the crosse.</title>
+            <author>Herrick, Robert, 1591-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86259</idno>
+            <idno type="STC">Wing H1597</idno>
+            <idno type="STC">Thomason E1090_1</idno>
+            <idno type="EEBO-CITATION">99871984</idno>
+            <idno type="PROQUEST">99871984</idno>
+            <idno type="VID">170728</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170728)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1090[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His noble numbers, or, His pious pieces vvherein (amongst other things) he sings the birth of his Christ : and sighes for his Saviours suffering on the crosse.</title>
+                  <author>Herrick, Robert, 1591-1674.</author>
+               </titleStmt>
+               <extent>[2], 79, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Williams, and Francis Eglesfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bound with 'Hesperides'.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170728:1"/>
+            <pb facs="tcp:170728:1"/>
+            <p>HIS NOBLE NUMBERS: <hi>OR,</hi> HIS PIOUS PIECES, VVherein (amongſt other things) he ſings the Birth of his CHRIST: and ſighes for his <hi>Saviours</hi> ſuffe<g ref="char:EOLhyphen"/>ring on the <hi>Croſſe.</hi>
+            </p>
+            <q xml:lang="grc">
+               <bibl>HESIOD.</bibl>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>John Williams,</hi> and <hi>Francis Eglesfield.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170728:2"/>
+            <pb n="1" facs="tcp:170728:2"/>
+            <head>HIS Noble Numbers: OR, His pious Pieces.</head>
+            <div type="poem">
+               <head>His Confeſsion.</head>
+               <l>LOok how our foule Dayes do exceed our faire;</l>
+               <l>And as our bad, more then our good Works are:</l>
+               <l>Ev'n ſo thoſe Lines, pen'd by my wanton Wit,</l>
+               <l>Treble the number of theſe good I've writ.</l>
+               <l>Things precious are leaſt num'rous: Men are prone</l>
+               <l>To do ten Bad, for one Good Action.</l>
+            </div>
+            <div type="poem">
+               <head>His Prayer for Abſolution.</head>
+               <l>FOr Thoſe my unbaptized Rhimes,</l>
+               <l>Writ in my wild unhallowed Times;</l>
+               <l>For every ſentence, clauſe and word,</l>
+               <l>That's not inlaid with Thee, (my Lord)</l>
+               <l>Forgive me God, and blot each Line</l>
+               <l>Out of my Book, that is not Thine.</l>
+               <l>But if, 'mongſt all, thou find'ſt here one</l>
+               <l>Worthy thy Benediction;</l>
+               <l>That One of all the reſt, ſhall be</l>
+               <l>The Glory of my Work, and Me,</l>
+            </div>
+            <div type="poem">
+               <pb n="2" facs="tcp:170728:3"/>
+               <head>To finde God.</head>
+               <l>WEigh me the Fire; or, canſt thou find</l>
+               <l>A way to meaſure out the Wind;</l>
+               <l>Diſtinguiſh all thoſe Floods that are</l>
+               <l>Mixt in that watrie Theater;</l>
+               <l>And taſt thou them as ſaltleſſe there,</l>
+               <l>As in their Channell firſt they were.</l>
+               <l>Tell me the People that do keep</l>
+               <l>Within the Kingdomes of the Deep;</l>
+               <l>Or fetch me back that Cloud againe,</l>
+               <l>Beſhiver'd into ſeeds of Raine;</l>
+               <l>Tell me the motes, duſt, ſands, and ſpeares</l>
+               <l>Of Corn, when Summer ſhakes his eares;</l>
+               <l>Shew me that world of Starres, and whence</l>
+               <l>They noiſeleſſe ſpill their Influence:</l>
+               <l>This if thou canſt; then ſhew me Him</l>
+               <l>That rides the glorious <hi>Cherubim.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>What God is.</head>
+               <l>GOD is above the ſphere of our eſteem,</l>
+               <l>And is the beſt known, not defining Him.</l>
+            </div>
+            <div type="poem">
+               <head>Upon God.</head>
+               <l>GOD is not onely ſaid to be</l>
+               <l>An <hi>Ens,</hi> but <hi>Supraentitie.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Mercy and Love.</head>
+               <l>GOD hath two wings, which He doth ever move,</l>
+               <l>The one is Mercy, and the next is Love:</l>
+               <l>Under the firſt the Sinners ever truſt;</l>
+               <l>And with the laſt he ſtill directs the Juſt.</l>
+            </div>
+            <div type="poem">
+               <pb n="3" facs="tcp:170728:3"/>
+               <head>Gods Anger without Affection.</head>
+               <l>GOD when He's angry here with any one,</l>
+               <l>His wrath is free from perturbation;</l>
+               <l>And when we think His looks are ſowre and grim<g ref="char:punc">▪</g>
+               </l>
+               <l>The alteration is in us, not Him.</l>
+            </div>
+            <div type="poem">
+               <head>God not to be comprehended.</head>
+               <l>'TIs hard to finde God, but to comprehend</l>
+               <l>Him, as He is, is labour without end.</l>
+            </div>
+            <div type="poem">
+               <head>Gods part.</head>
+               <l>PRayers and Praiſes are thoſe ſpotleſſe two</l>
+               <l>Lambs, by the Law, which God requires as due.</l>
+            </div>
+            <div type="poem">
+               <head>Affliction.</head>
+               <l>GOD n'ere afflicts us more then our deſert,</l>
+               <l>Though He may ſeem to over-act His part:</l>
+               <l>Somtimes He ſtrikes us more then fleſh can beare;</l>
+               <l>But yet ſtill leſſe then Grace can ſuffer here.</l>
+            </div>
+            <div type="poem">
+               <head>Three fatall Siſters.</head>
+               <l>THree fatall Siſters wait upon each ſin;</l>
+               <l>Firſt, Fear and Shame without, then Guilt within.</l>
+            </div>
+            <div type="poem">
+               <head>Silence.</head>
+               <l>SUffer thy legs, but not thy tongue to walk:</l>
+               <l>God, the moſt Wiſe, is ſparing of His talk.</l>
+            </div>
+            <div type="poem">
+               <pb n="4" facs="tcp:170728:4"/>
+               <head>Mirth.</head>
+               <l>TRue mirth reſides not in the ſmiling skin:</l>
+               <l>The ſweeteſt ſolace is to act no ſin.</l>
+            </div>
+            <div type="poem">
+               <head>Loading and unloading.</head>
+               <l>GOD loads, and unloads, (thus His work begins)</l>
+               <l>To load with bleſſings, and unload from ſins.</l>
+            </div>
+            <div type="poem">
+               <head>Gods Mercy.</head>
+               <l>GODS boundleſſe mercy is (to ſinfull man)</l>
+               <l>Like to the ever-wealthy Ocean:</l>
+               <l>Which though it ſends forth thouſand ſtreams, 'tis ne're</l>
+               <l>Known, or els ſeen to be the emptier:</l>
+               <l>And though it takes all in, 'tis yet no more</l>
+               <l>Full, and fild-full, then when full-fild before.</l>
+            </div>
+            <div type="poem">
+               <head>Prayers muſt have Poiſe.</head>
+               <l>GOD He rejects all Prayers that are ſleight,</l>
+               <l>And want their Poiſe: words ought to have their weight.</l>
+            </div>
+            <div type="poem">
+               <head>To God: an Anthem, ſung in the Chappell at White-Hall, before the King.</head>
+               <lg>
+                  <head>Verſe.</head>
+                  <l> MY God, I'm wounded by my ſin,</l>
+                  <l>And ſore without, and ſick within:</l>
+               </lg>
+               <lg>
+                  <head>Ver. Chor.</head>
+                  <l>I come to Thee, in hope to find</l>
+                  <l>Salve for my body, and my mind.</l>
+               </lg>
+               <lg>
+                  <head>Verſe.</head>
+                  <l>In <hi>Gilead</hi> though no Balme be found,</l>
+                  <l>To eaſe this ſmart, or cure this wound;</l>
+               </lg>
+               <lg>
+                  <pb n="5" facs="tcp:170728:4"/>
+                  <head>Ver. Chor.</head>
+                  <l>Yet, Lord, I know there is with Thee</l>
+                  <l>All ſaving health, and help for me.</l>
+               </lg>
+               <lg>
+                  <head>Verſe.</head>
+                  <l>Then reach Thou forth that hand of Thine,</l>
+                  <l>That powres in oyle, as well as wine.</l>
+               </lg>
+               <lg>
+                  <head>Ver. Chor.</head>
+                  <l>And let it work, for I'le endure</l>
+                  <l>The utmoſt ſmart, ſo Thou wilt cure.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Upon God.</head>
+               <l>GOD is all fore-part; for, we never ſee</l>
+               <l>Any part backward in the Deitie.</l>
+            </div>
+            <div type="poem">
+               <head>Calling, and correcting.</head>
+               <l>GOD is not onely mercifull, to call</l>
+               <l>Men to repent, but when He ſtrikes withall.</l>
+            </div>
+            <div type="poem">
+               <head>No eſcaping the ſcourging.</head>
+               <l>GOD ſcourgeth ſome ſeverely, ſome He ſpares;</l>
+               <l>But all in ſmart have leſſe, or greater ſhares.</l>
+            </div>
+            <div type="poem">
+               <head>The Rod.</head>
+               <l>GOds Rod doth watch while men do ſleep; &amp; then</l>
+               <l>The Rod doth ſleep, while vigilant are men.</l>
+            </div>
+            <div type="poem">
+               <head>God has a twofold part.</head>
+               <l>GOD when for ſin He makes His Children ſmart,</l>
+               <l>His own He acts not, but anothers part:</l>
+               <l>But when by ſtripes He ſaves them, then 'tis known,</l>
+               <l>He comes to play the part that is His own.</l>
+            </div>
+            <div type="poem">
+               <pb n="6" facs="tcp:170728:5"/>
+               <head>God is One.</head>
+               <l>GOD, as He is moſt Holy knowne;</l>
+               <l>So He is ſaid to be moſt One.</l>
+            </div>
+            <div type="poem">
+               <head>Perſecutions profitable.</head>
+               <l>AFflictions they moſt profitable are</l>
+               <l>To the beholder, and the ſufferer:</l>
+               <l>Bettering them both, but by a double ſtraine,</l>
+               <l>The firſt by patience, and the laſt by paine.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>DO with me, God! as Thou didſt deal with <hi>Iohn,</hi>
+               </l>
+               <l>(Who writ that heavenly <hi>Revelation</hi>)</l>
+               <l>Let me (like him) firſt cracks of thunder heare;</l>
+               <l>Then let the Harps inchantments ſtrike mine eare;</l>
+               <l>Here give me thornes; there, in thy Kingdome, ſet</l>
+               <l>Upon my head the golden coronet;</l>
+               <l>There give me day; but here my dreadfull night:</l>
+               <l>My ſackcloth here; but there my <hi>Stole</hi> of white.</l>
+            </div>
+            <div type="poem">
+               <head>Whips.</head>
+               <l>GOD has his whips here to a twofold end,</l>
+               <l>The bad to puniſh, and the good t'amend.</l>
+            </div>
+            <div type="poem">
+               <head>Gods Providence.</head>
+               <l>IF all tranſgreſſions here ſhould have their pay,</l>
+               <l>What need there then be of a reckning day:</l>
+               <l>IF God ſhould puniſh no ſin, here, of men,</l>
+               <l>His Providence who would not queſtion then?</l>
+            </div>
+            <div type="poem">
+               <pb n="7" facs="tcp:170728:5"/>
+               <head>Temptation.</head>
+               <l>THoſe Saints, which God loves beſt,</l>
+               <l>The Devill tempts not leaſt.</l>
+            </div>
+            <div type="poem">
+               <head>His Ejaculation to God.</head>
+               <l>MY God! looke on me with thine eye</l>
+               <l>Of pittie, not of ſcrutinie;</l>
+               <l>For if thou doſt, thou then ſhalt ſee</l>
+               <l>Nothing but loathſome ſores in mee.</l>
+               <l>O then! for mercies ſake, behold</l>
+               <l>Theſe my irruptions manifold;</l>
+               <l>And heale me with thy looke, or touch:</l>
+               <l>But if thou wilt not deigne ſo much,</l>
+               <l>Becauſe I'me odious in thy ſight,</l>
+               <l>Speak but the word, and cure me quite.</l>
+            </div>
+            <div type="poem">
+               <head>Gods gifts not ſoone granted.</head>
+               <l>GOD heares us when we pray, but yet defers</l>
+               <l>His gifts, to exerciſe Petitioners:</l>
+               <l>And though a while He makes Requeſters ſtay,</l>
+               <l>With Princely hand He'l recompence delay.</l>
+            </div>
+            <div type="poem">
+               <head>Perſecutions purifie.</head>
+               <l>GOD ſtrikes His Church, but 'tis to this intent,</l>
+               <l>To make, not marre her, by this puniſhment:</l>
+               <l>So where He gives the bitter Pills, be ſure,</l>
+               <l>'Tis not to poyſon, but to make thee pure.</l>
+            </div>
+            <div type="poem">
+               <pb n="8" facs="tcp:170728:6"/>
+               <head>Pardon.</head>
+               <l>GOD pardons thoſe, who do through frailty ſin;</l>
+               <l>But never thoſe that perſevere therein.</l>
+            </div>
+            <div type="poem">
+               <head>An Ode of the Birth of our Saviour.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>IN Numbers, and but theſe few,</l>
+                  <l>I ſing Thy Birth, Oh JESU!</l>
+                  <l>Thou prettie Babie, borne here,</l>
+                  <l>With ſup'rabundant ſcorn here:</l>
+                  <l>Who for Thy Princely Port here,</l>
+                  <l>Hadſt for Thy place</l>
+                  <l>Of Birth, a baſe</l>
+                  <l>Out-ſtable for thy Court here.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Inſtead of neat Incloſures</l>
+                  <l>Of inter-woven Oſiers;</l>
+                  <l>Inſtead of fragrant Poſies</l>
+                  <l>Of Daffadills, and Roſes;</l>
+                  <l>Thy cradle, Kingly Stranger,</l>
+                  <l>As Goſpell tells,</l>
+                  <l>Was nothing els,</l>
+                  <l>But, here, a homely manger.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>But we with Silks, (not Cruells)</l>
+                  <l>With ſundry precious Jewells,</l>
+                  <l>And Lilly-work will dreſſe Thee;</l>
+                  <l>And as we diſpoſſeſſe thee</l>
+                  <l>Of clouts, wee'l make a chamber,</l>
+                  <l>Sweet Babe, for Thee,</l>
+                  <l>Of Ivorie,</l>
+                  <l>And plaiſter'd round with Amber.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>The Jewes they did diſdaine Thee,</l>
+                  <pb n="9" facs="tcp:170728:6"/>
+                  <l>But we will entertaine Thee</l>
+                  <l>With Glories to await here</l>
+                  <l>Upon Thy Princely State here,</l>
+                  <l>And more for love, then pittie.</l>
+                  <l>From yeere to yeere</l>
+                  <l>Wee'l make Thee, here,</l>
+                  <l>A Free-born of our Citie.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Lip-labour.</head>
+               <l>IN the old Scripture I have often read,</l>
+               <l>The calfe without meale n'ere was offered;</l>
+               <l>To figure to us, nothing more then this,</l>
+               <l>Without the heart, lip-labour nothing is.</l>
+            </div>
+            <div type="poem">
+               <head>The Heart.</head>
+               <l>IN Prayer the Lips ne're act the winning part,</l>
+               <l>Without the ſweet concurrence of the Heart.</l>
+            </div>
+            <div type="poem">
+               <head>Eare-rings.</head>
+               <l>WHy wore th' Egyptians Jewells in the Eare?</l>
+               <l>But for to teach us, all the grace is there,</l>
+               <l>When we obey, by acting what we heare.</l>
+            </div>
+            <div type="poem">
+               <head>Sin ſeen.</head>
+               <l>WHen once the ſin has fully acted been,</l>
+               <l>Then is the horror of the treſpaſſe ſeen.</l>
+            </div>
+            <div type="poem">
+               <head>Upon Time.</head>
+               <lg>
+                  <l>TIme was upon</l>
+                  <l>The wing, to flie away;</l>
+                  <pb n="10" facs="tcp:170728:7"/>
+                  <l>And I cal'd on</l>
+                  <l>Him but a while to ſtay;</l>
+                  <l>But he'd be gone,</l>
+                  <l>For ought that I could ſay.</l>
+               </lg>
+               <lg>
+                  <l>He held out then,</l>
+                  <l>A Writing, as he went;</l>
+                  <l>And askt me, when</l>
+                  <l>Falſe man would be content</l>
+                  <l>To pay agen,</l>
+                  <l>What God and Nature lent.</l>
+               </lg>
+               <lg>
+                  <l>An houre-glaſſe,</l>
+                  <l>In which were ſands but few,</l>
+                  <l>As he did paſſe,</l>
+                  <l>He ſhew'd, and told me too,</l>
+                  <l>Mine end near was,</l>
+                  <l>And ſo away he flew.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>His Petition.</head>
+               <l>IF warre, or want ſhall make me grow ſo poore,</l>
+               <l>As for to beg my bread from doore to doore;</l>
+               <l>Lord! let me never act that beggars part,</l>
+               <l>Who hath thee in his mouth, not in his heart.</l>
+               <l>He who asks almes in that ſo ſacred Name,</l>
+               <l>Without due reverence, playes the cheaters game.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>THou haſt promis'd, Lord, to be</l>
+               <l>With me in my miſerie;</l>
+               <l>Suffer me to be ſo bold,</l>
+               <l>As to ſpeak, Lord, ſay and hold.</l>
+            </div>
+            <div type="poem">
+               <pb n="11" facs="tcp:170728:7"/>
+               <head>His Letanie, to the Holy Spirit.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>IN the houre of my diſtreſſe,</l>
+                  <l>When temptations me oppreſſe,</l>
+                  <l>And when I my ſins confeſſe,</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>When I lie within my bed,</l>
+                  <l>Sick in heart, and ſick in head,</l>
+                  <l>And with doubts diſcomforted,</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>When the houſe doth ſigh and weep,</l>
+                  <l>And the world is drown'd in ſleep,</l>
+                  <l>Yet mine eyes the watch do keep;</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>When the artleſſe Doctor fees</l>
+                  <l>No one hope, but of his Fees,</l>
+                  <l>And his skill runs on the lees;</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>When his Potion and his Pill,</l>
+                  <l>His, or none, or little skill,</l>
+                  <l>Meet for nothing, but to kill;</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>When the paſſing-bell doth tole,</l>
+                  <l>And the Furies in a ſhole</l>
+                  <l>Come to fright a parting ſoule;</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>When the tapers now burne blew,</l>
+                  <l>And the comforters are few,</l>
+                  <l>And that number more then true;</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+               <lg n="8">
+                  <pb n="12" facs="tcp:170728:8"/>
+                  <head>8.</head>
+                  <l>When the Prieſt his laſt hath praid,</l>
+                  <l>And I nod to what is ſaid,</l>
+                  <l>'Cauſe my ſpeech is now decaid;</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>When (God knowes) I'm toſt about,</l>
+                  <l>Either with deſpaire, or doubt;</l>
+                  <l>Yet before the glaſſe be out,</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>When the Tempter me purſu'th</l>
+                  <l>With the ſins of all my youth,</l>
+                  <l>And halfe damns me with untruth;</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>When the flames and helliſh cries</l>
+                  <l>Fright mine eares, and fright mine eyes,</l>
+                  <l>And all terrors me ſurprize;</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>When the Judgment is reveal'd,</l>
+                  <l>And that open'd which was ſeal'd,</l>
+                  <l>When to Thee I have appeal'd;</l>
+                  <l>Sweet Spirit comfort me!</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Thankſgiving.</head>
+               <l>THankſgiving for a former, doth invite</l>
+               <l>God to beſtow a ſecond benefit.</l>
+            </div>
+            <div type="poem">
+               <head>Cock-crow.</head>
+               <l>BEll-man of Night, if I about ſhall go</l>
+               <l>For to denie my Maſter, do thou crow.</l>
+               <l>Thou ſtop'ſt S. <hi>Peter</hi> in the midſt of ſin;</l>
+               <pb n="13" facs="tcp:170728:8"/>
+               <l>Stay me, by crowing, ere I do begin;</l>
+               <l>Better it is, premoniſh'd, for to ſhun</l>
+               <l>A ſin, then fall to weeping when 'tis done.</l>
+            </div>
+            <div type="poem">
+               <head>All things run well for the Righteous.</head>
+               <l>ADverſe and proſperous Fortunes both work on</l>
+               <l>Here, for the righteous mans ſalvation:</l>
+               <l>Be he oppos<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, or be he not withſtood,</l>
+               <l>All ſerve to th' Augmentation of his good.</l>
+            </div>
+            <div type="poem">
+               <head>Paine ends in Pleaſure.</head>
+               <l>AFflictions bring us joy in times to come,</l>
+               <l>When ſins, by ſtripes, to us grow weariſome.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>I'Le come, I'le creep, (though Thou doſt threat</l>
+               <l>Humbly unto Thy Mercy-ſeat:</l>
+               <l>When I am there, this then I'le do,</l>
+               <l>Give Thee a Dart, and Dagger too;</l>
+               <l>Next, when I have my faults confeſt,</l>
+               <l>Naked I'le ſhew a ſighing breſt;</l>
+               <l>Which if that can't Thy pittie wooe,</l>
+               <l>Then let Thy Juſtice do the reſt,</l>
+               <l>And ſtrike it through.</l>
+            </div>
+            <div type="poem">
+               <head>A Thankſgiving to God, for his Houſe.</head>
+               <l>LOrd, Thou haſt given me a cell</l>
+               <l>Wherein to dwell;</l>
+               <l>And little houſe, whoſe humble Roof</l>
+               <l>Is weather-proof;</l>
+               <l>Under the ſparres of which I lie</l>
+               <l>Both ſoft, and drie;</l>
+               <pb n="14" facs="tcp:170728:9"/>
+               <l>Where Thou my chamber for to ward</l>
+               <l>Haſt ſet a Guard</l>
+               <l>Of harmleſſe thoughts, to watch and keep</l>
+               <l>Me, while I ſleep.</l>
+               <l>Low is my porch, as is my Fate,</l>
+               <l>Both void of ſtate;</l>
+               <l>And yet the threſhold of my doore</l>
+               <l>Is worn by'th poore,</l>
+               <l>Who thither come, and freely get</l>
+               <l>Good words, or meat:</l>
+               <l>Like as my Parlour, ſo my Hall</l>
+               <l>And Kitchin's ſmall:</l>
+               <l>A little Butterie, and therein</l>
+               <l>A little Byn,</l>
+               <l>Which keeps my little loafe of Bread</l>
+               <l>Unchipt, unflead:</l>
+               <l>Some brittle ſticks of Thorne or Briar</l>
+               <l>Make me a fire,</l>
+               <l>Cloſe by whoſe living coale I ſit,</l>
+               <l>And glow like it</l>
+               <l>Lord, I confeſſe too, when I dine,</l>
+               <l>The Pulſe is Thine,</l>
+               <l>And all thoſe other Bits, that bee</l>
+               <l>There plac'd by Thee;</l>
+               <l>The Worts, the Purſlain, and the Meſſe</l>
+               <l>Of Water-creſſe,</l>
+               <l>Which of Thy kindneſſe Thou haſt ſent;</l>
+               <l>And my content</l>
+               <l>Makes thoſe, and my beloved Beet,</l>
+               <l>To be more ſweet.</l>
+               <l>'Tis thou that crown'ſt my glittering Hearth</l>
+               <l>With guiltleſſe mirth;</l>
+               <l>And giv'ſt me Waſſaile Bowles to drink,</l>
+               <l>Spic'd to the brink.</l>
+               <l>Lord, 'tis thy plenty-dropping hand,</l>
+               <l>That ſoiles my land;</l>
+               <pb n="15" facs="tcp:170728:9"/>
+               <l>And giv'ſt me, for my Buſhell ſowne,</l>
+               <l>Twice ten for one:</l>
+               <l>Thou mak'ſt my teeming Hen to lay</l>
+               <l>Her egg each day:</l>
+               <l>Beſides my healthfull Ewes to beare</l>
+               <l>Me twins each yeare:</l>
+               <l>The while the conduits of my Kine</l>
+               <l>Run Creame, (for Wine.)</l>
+               <l>All theſe, and better Thou doſt ſend</l>
+               <l>Me, to this end,</l>
+               <l>That I ſhould render, for my part,</l>
+               <l>A thankfull heart;</l>
+               <l>Which, fir'd with incenſe, I reſigne,</l>
+               <l>As wholly Thine;</l>
+               <l>But the acceptance, that muſt be,</l>
+               <l>My Chriſt, by Thee.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>MAke, make me Thine, my gracious God,</l>
+               <l>Or with thy ſtaffe, or with thy rod;</l>
+               <l>And be the blow too what it will,</l>
+               <l>Lord, I will kiſſe it, though it kill:</l>
+               <l>Beat me, bruiſe me, rack me, rend me,</l>
+               <l>Yet, in torments, I'le commend Thee:</l>
+               <l>Examine me with fire, and prove me</l>
+               <l>To the full, yet I will love Thee:</l>
+               <l>Nor ſhalt thou give ſo deep a wound,</l>
+               <l>But I as patient will be found.</l>
+            </div>
+            <div type="poem">
+               <head>Another, to God.</head>
+               <l>LOrd, do not beat me,</l>
+               <l>Since I do ſob and crie,</l>
+               <l>And ſwowne away to die,</l>
+               <l>Ere Thou doſt threat me.</l>
+               <pb n="16" facs="tcp:170728:10"/>
+               <l>Lord, do not ſcourge me,</l>
+               <l>If I by lies and oaths</l>
+               <l>Have ſoil'd my ſelfe, or cloaths,</l>
+               <l>But rather purge me.</l>
+            </div>
+            <div type="poem">
+               <head>None truly happy here.</head>
+               <l>HAppy's that man, to whom God gives</l>
+               <l>A ſtock of Goods, whereby he lives</l>
+               <l>Neer to the wiſhes of his heart:</l>
+               <l>No man is bleſt through ev'ry part.</l>
+            </div>
+            <div type="poem">
+               <head>To his ever-loving God.</head>
+               <l>CAn I not come to Thee, my God, for theſe</l>
+               <l>So very-many-meeting hindrances,</l>
+               <l>That ſlack my pace; but yet not make me ſtay?</l>
+               <l>Who ſlowly goes, rids (in the end) his way.</l>
+               <l>Cleere Thou my paths, or ſhorten Thou my miles,</l>
+               <l>Remove the barrs, or lift me o're the ſtiles:</l>
+               <l>Since rough the way is, help me when I call,</l>
+               <l>And take me up; or els prevent the fall.</l>
+               <l>I kenn my home; and it affords ſome eaſe,</l>
+               <l>To ſee far off the ſmoaking Villages.</l>
+               <l>Fain would I reſt; yet covet not to die,</l>
+               <l>For feare of future-biting penurie:</l>
+               <l>No, no, (my God) Thou know'ſt my wiſhes be</l>
+               <l>To leave this life, not loving it, but Thee.</l>
+            </div>
+            <div type="poem">
+               <head>Another.</head>
+               <l>THou bidſt me come; I cannot come; for why,</l>
+               <l>Thou dwel'ſt aloft, and I want wings to flie.</l>
+               <l>To mount my Soule, ſhe muſt have pineons given;</l>
+               <l>For, 'tis no eaſie way from Earth to Heaven.</l>
+            </div>
+            <div type="poem">
+               <pb n="17" facs="tcp:170728:10"/>
+               <head>To Death.</head>
+               <l>THou bidſt me come away,</l>
+               <l>And I'le no longer ſtay,</l>
+               <l>Then for to ſhed ſome teares</l>
+               <l>For faults of former yeares;</l>
+               <l>And to repent ſome crimes,</l>
+               <l>Done in the preſent times:</l>
+               <l>And next, to take a bit</l>
+               <l>Of Bread, and Wine with it;</l>
+               <l>To d'on my robes of love,</l>
+               <l>Fit for the place above;</l>
+               <l>To gird my loynes about</l>
+               <l>With charity throughout;</l>
+               <l>And ſo to travaile hence</l>
+               <l>With feet of innocence:</l>
+               <l>Theſe done, I'le onely crie</l>
+               <l>
+                  <hi>God mercy;</hi> and ſo die.</l>
+            </div>
+            <div type="poem">
+               <head>Neutrality loathſome.</head>
+               <l>GOD will have all, or none; ſerve Him, or fall</l>
+               <l>Down before <hi>Baal, Bel,</hi> or <hi>Belial:</hi>
+               </l>
+               <l>Either be hot, or cold: God doth deſpiſe,</l>
+               <l>Abhorre, and ſpew out all Neutralities.</l>
+            </div>
+            <div type="poem">
+               <head>Welcome what comes.</head>
+               <l>WHatever comes, let's be content withall:</l>
+               <l>Among Gods Bleſſings, there is no one ſmall.</l>
+            </div>
+            <div type="poem">
+               <head>To his angrie God.</head>
+               <lg>
+                  <l>THrough all the night</l>
+                  <l>Thou doſt me fright.</l>
+                  <pb n="18" facs="tcp:170728:11"/>
+                  <l>And hold'ſt mine eyes from ſleeping;</l>
+                  <l>And day, by day,</l>
+                  <l>My Cup can ſay,</l>
+                  <l>My wine is mixt with weeping.</l>
+               </lg>
+               <lg>
+                  <l>Thou doſt my bread</l>
+                  <l>With aſhes knead,</l>
+                  <l>Each evening and each morrow:</l>
+                  <l>Mine eye and eare</l>
+                  <l>Do ſee, and heare</l>
+                  <l>The coming in of ſorrow.</l>
+               </lg>
+               <lg>
+                  <l>Thy ſcourge of ſteele,</l>
+                  <l>(Ay me!) I feele,</l>
+                  <l>Upon me beating ever:</l>
+                  <l>While my ſick heart</l>
+                  <l>With diſmall ſmart</l>
+                  <l>Is diſacquainted never.</l>
+               </lg>
+               <lg>
+                  <l>Long, long, I'm ſure,</l>
+                  <l>This can't endure;</l>
+                  <l>But in ſhort time 'twill pleaſe Thee,</l>
+                  <l>My gentle God,</l>
+                  <l>To burn the rod,</l>
+                  <l>Or ſtrike ſo as to eaſe me.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Patience, or Comforts in Croſſes.</head>
+               <l>ABundant plagues I late have had,</l>
+               <l>Yet none of theſe have made me ſad:</l>
+               <l>For why, my Saviour, with the ſenſe</l>
+               <l>Of ſuffring gives me patience.</l>
+            </div>
+            <div type="poem">
+               <pb n="19" facs="tcp:170728:11"/>
+               <head>Eternitie.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>O Yeares! and Age! Farewell:</l>
+                  <l>Behold I go,</l>
+                  <l>Where I do know</l>
+                  <l>Infinitie to dwell.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>And theſe mine eyes ſhall ſee</l>
+                  <l>All times, how they</l>
+                  <l>Are loſt i'th' Sea</l>
+                  <l>Of vaſt Eternitie.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Where never Moone ſhall ſway</l>
+                  <l>The Starres; but ſhe,</l>
+                  <l>And Night, ſhall be</l>
+                  <l>Drown'd in one endleſſe Day.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To his Saviour, a Child; a Preſent, by a child.</head>
+               <l>GO prettie child, and beare this Flower</l>
+               <l>Unto thy little Saviour;</l>
+               <l>And tell Him, by that Bud now blown,</l>
+               <l>He is the <hi>Roſe of Sharon</hi> known:</l>
+               <l>When thou haſt ſaid ſo, ſtick it there</l>
+               <l>Upon his Bibb, or Stomacher:</l>
+               <l>And tell Him, (for good handſell too)</l>
+               <l>That thou haſt brought a Whiſtle new,</l>
+               <l>Made of a clean ſtrait oaten reed,</l>
+               <l>To charme his cries, (at time of need:)</l>
+               <l>Tell Him, for Corall, thou haſt none;</l>
+               <l>But if thou hadſt, He ſho'd have one;</l>
+               <l>But poore thou art, and knowne to be</l>
+               <l>Even as monileſſe, as He.</l>
+               <l>Laſtly, if thou canſt win a kiſſe</l>
+               <l>From thoſe mellifluous lips of his;</l>
+               <pb n="20" facs="tcp:170728:12"/>
+               <l>Then never take a ſecond on,</l>
+               <l>To ſpoile the firſt impreſſion.</l>
+            </div>
+            <div type="poem">
+               <head>The New-yeeres Gift.</head>
+               <l>LEt others look for Pearle and Gold,</l>
+               <l>Tiſſues, or Tabbies manifold:</l>
+               <l>One onely lock of that ſweet Hay</l>
+               <l>Whereon the bleſſed Babie lay,</l>
+               <l>Or one poore Swadling-clout, ſhall be</l>
+               <l>The richeſt New-yeeres Gift to me.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>IF any thing delight me for to print</l>
+               <l>My Book, 'tis this; that <hi>Thou, my God, art in't.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>God, and the King.</head>
+               <l>HOw am I bound to Two! God, who doth give</l>
+               <l>The mind; the King, the meanes whereby I live.</l>
+            </div>
+            <div type="poem">
+               <head>Gods mirth, Mans mourning.</head>
+               <l>WHere God is merry, there write down thy fears:</l>
+               <l>What He with laughter ſpeaks, heare thou with tears.</l>
+            </div>
+            <div type="poem">
+               <head>Honours are hindrances.</head>
+               <l>GIve me Honours: what are theſe,</l>
+               <l>But the pleaſing hindrances?</l>
+               <l>Stiles, and ſtops, and ſtayes, that come</l>
+               <l>In the way 'twixt me, and home:</l>
+               <l>Cleer the walk, and then ſhall I</l>
+               <l>To my heaven leſſe run, then flie.</l>
+            </div>
+            <div type="poem">
+               <pb n="21" facs="tcp:170728:12"/>
+               <head>The Paraſceve, or Preparation.</head>
+               <l>TO a Love-Feaſt we both invited are:</l>
+               <l>The figur'd Damask, or pure Diaper,</l>
+               <l>Over the golden Altar now is ſpread,</l>
+               <l>With Bread, and Wine, and Veſſells furniſhed;</l>
+               <l>The <hi>ſacred Towell,</hi> and the <hi>holy Eure</hi>
+               </l>
+               <l>Are ready by, to make the Gueſts all pure:</l>
+               <l>Let's go (my <hi>Alma</hi>) yet e're we receive,</l>
+               <l>Fit, fit it is, we have our <hi>Paraſceve.</hi>
+               </l>
+               <l>Who to that <hi>ſweet Bread</hi> unprepar'd doth come</l>
+               <l>Better he ſtarv'd, then but to taſt one crumme.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>GOD gives not onely corne, for need,</l>
+               <l>But likewiſe ſup'rabundant ſeed;</l>
+               <l>Bread for our ſervice, bread for ſhew;</l>
+               <l>Meat for our meales, and fragments too:</l>
+               <l>He gives not poorly, taking ſome</l>
+               <l>Between the finger, and the thumb;</l>
+               <l>But, for our glut, and for our ſtore,</l>
+               <l>Fine flowre preſt down, and running o're.</l>
+            </div>
+            <div type="poem">
+               <head>A will to be working.</head>
+               <l>ALthough we cannot turne the fervent fit</l>
+               <l>Of ſin, we muſt ſtrive 'gainſt the ſtreame of it:</l>
+               <l>And howſoe're we have the conqueſt miſt;</l>
+               <l>'Tis for our glory, that we did reſiſt.</l>
+            </div>
+            <div type="poem">
+               <head>Chriſts part.</head>
+               <l>CHRIST, He requires ſtill, whereſoere He comes,</l>
+               <l>To feed, or lodge, to have the beſt of Roomes:</l>
+               <pb n="22" facs="tcp:170728:13"/>
+               <l>Give Him the choice; grant Him the nobler part</l>
+               <l>Of all the Houſe: the beſt of all's the Heart.</l>
+            </div>
+            <div type="poem">
+               <head>Riches and Poverty.</head>
+               <l>GOD co'd have made all rich, or all men poore;</l>
+               <l>But why He did not, let me tell wherefore:</l>
+               <l>Had all been rich, where then had Patience been?</l>
+               <l>Had all been poore, who had His Bounty ſeen?</l>
+            </div>
+            <div type="poem">
+               <head>Sobriety in Search.</head>
+               <l>TO ſeek of God more then we well can find,</l>
+               <l>Argues a ſtrong diſtemper of the mind.</l>
+            </div>
+            <div type="poem">
+               <head>Almes.</head>
+               <l>GIve, if thou canſt, an Almes; if not, afford,</l>
+               <l>Inſtead of that, a ſweet and gentle word:</l>
+               <l>
+                  <hi>God crowns our goodneſſe, when He ſees,</hi>
+               </l>
+               <l>
+                  <hi>On our part, wanting all abilities.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>To his Conſcience.</head>
+               <l>CAn I not ſin, but thou wilt be</l>
+               <l>My private <hi>Protonotarie?</hi>
+               </l>
+               <l>Can I not wooe thee to paſſe by</l>
+               <l>A ſhort and ſweet iniquity?</l>
+               <l>I'le caſt a miſt and cloud, upon</l>
+               <l>My delicate tranſgreſſion,</l>
+               <l>So utter dark, as that no eye</l>
+               <l>Shall ſee the hug'd impietie:</l>
+               <l>
+                  <hi>Gifts blind the wiſe,</hi> and bribes do pleaſe,</l>
+               <l>And winde all other witneſſes:</l>
+               <l>And wilt not thou, with gold; be ti'd</l>
+               <l>To lay thy pen and ink aſide?</l>
+               <pb n="23" facs="tcp:170728:13"/>
+               <l>That in the mirk and tongueleſſe night,</l>
+               <l>Wanton I may, and thou not write?</l>
+               <l>It will not be: And, therefore, now,</l>
+               <l>For times to come, I'le make this Vow,</l>
+               <l>From aberrations to live free;</l>
+               <l>So I'le not feare the Judge, or thee.</l>
+            </div>
+            <div type="poem">
+               <head>To his Saviour.</head>
+               <l>LORD, I confeſſe, that Thou alone art able</l>
+               <l>To purifie this my <hi>Augean</hi> ſtable:</l>
+               <l>Be the Seas water, and the Land all Sope,</l>
+               <l>Yet if Thy Bloud not waſh me, there's no hope.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>GOD is all-ſufferance here; here He doth ſhow</l>
+               <l>No Arrow nockt, onely a ſtringleſſe Bow:</l>
+               <l>His Arrowes flie; and all his ſtones are hurl'd</l>
+               <l>Againſt the wicked, in another world.</l>
+            </div>
+            <div type="poem">
+               <head>His Dreame.</head>
+               <l>I Dreamt, laſt night, Thou didſt transfuſe</l>
+               <l>Oyle from Thy Jarre, into my creuze;</l>
+               <l>And powring ſtill, Thy wealthy ſtore,</l>
+               <l>The veſſell full, did then run ore:</l>
+               <l>Me thought, I did Thy bounty chide,</l>
+               <l>To ſee the waſte; but 'twas repli'd</l>
+               <l>By Thee, Deare God, God gives man ſeed</l>
+               <l>Oft-times for waſt, as for his need.</l>
+               <l>Then I co'd ſay, that houſe is bare,</l>
+               <l>That has not bread, and ſome to ſpare.</l>
+            </div>
+            <div type="poem">
+               <pb n="24" facs="tcp:170728:14"/>
+               <head>Gods Bounty.</head>
+               <l>GOds Bounty, that ebbs leſſe and leſſe,</l>
+               <l>As men do wane in thankfulneſſe.</l>
+            </div>
+            <div type="poem">
+               <head>To his ſweet Saviour.</head>
+               <l>NIght hath no wings, to him that cannot ſleep;</l>
+               <l>And Time ſeems then, not for to flie, but creep;</l>
+               <l>Slowly her chariot drives, as if that ſhe</l>
+               <l>Had broke her wheele, or crackt her axeltree.</l>
+               <l>Juſt ſo it is with me, who liſt'ning, pray</l>
+               <l>The winds, to blow the tedious night away;</l>
+               <l>That I might ſee the cheerfull peeping day.</l>
+               <l>Sick is my heart; O Saviour! do Thou pleaſe</l>
+               <l>To make my bed ſoft in my ſickneſſes:</l>
+               <l>Lighten my candle, ſo that I beneath</l>
+               <l>Sleep not for ever in the vaults of death:</l>
+               <l>Let me Thy voice betimes i'th morning heare;</l>
+               <l>Call, and I'le come; ſay Thou, the when, and where:</l>
+               <l>Draw me, but firſt, and after Thee I'le run,</l>
+               <l>And make no one ſtop, till my race be done.</l>
+            </div>
+            <div type="poem">
+               <head>His Creed.</head>
+               <l>I Do believe, that die I muſt,</l>
+               <l>And be return'd from out my duſt:</l>
+               <l>I do believe, that when I riſe,</l>
+               <l>Chriſt I ſhall ſee, with theſe ſame eyes:</l>
+               <l>I do believe, that I muſt come,</l>
+               <l>With others, to the dreadfull Doome:</l>
+               <l>I do believe, the bad muſt goe</l>
+               <l>From thence, to everlaſting woe:</l>
+               <l>I do believe, the good, and I,</l>
+               <l>Shall live with Him eternally:</l>
+               <pb n="25" facs="tcp:170728:14"/>
+               <l>I do believe, I ſhall inherit</l>
+               <l>Heaven, by Chriſts mercies, not my merit:</l>
+               <l>I do believe, the One in Three,</l>
+               <l>And Three in perfect Unitie:</l>
+               <l>Laſtly, that JESUS is a Deed</l>
+               <l>Of Gift from God: <hi>And heres my Creed.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Temptations.</head>
+               <l>TEmptations hurt not, though they have acceſſe:</l>
+               <l>Satan o'recomes none, but by willingneſſe.</l>
+            </div>
+            <div type="poem">
+               <head>The Lamp.</head>
+               <l>WHen a mans Faith is frozen up, as dead;</l>
+               <l>Then is the Lamp and oyle extinguiſhed.</l>
+            </div>
+            <div type="poem">
+               <head>Sorrowes.</head>
+               <l>SOrrowes our portion are: Ere hence we goe,</l>
+               <l>Croſſes we muſt have; or, hereafter woe.</l>
+            </div>
+            <div type="poem">
+               <head>Penitencie.</head>
+               <l>A Mans tranſgreſſion God do's then remit,</l>
+               <l>When man he makes a Penitent for it.</l>
+            </div>
+            <div type="poem">
+               <head>The Dirge of <hi>Jephthahs</hi> Daughter: ſung by the Virgins.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>O Thou, the wonder of all dayes!</l>
+                  <l>O Paragon, and Pearle of praiſe!</l>
+                  <l>O Virgin-martyr, ever bleſt</l>
+                  <l>Above the reſt</l>
+                  <l>Of all the Maiden-Traine! We come,</l>
+                  <l>And bring freſh ſtrewings to thy Tombe.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="26" facs="tcp:170728:15"/>
+                  <head>2</head>
+                  <l>Thus, thus, and thus we compaſſe round</l>
+                  <l>Thy harmleſſe and unhaunted Ground;</l>
+                  <l>And as we ſing thy Dirge, we will</l>
+                  <l>The Daffadill,</l>
+                  <l>And other flowers, lay upon</l>
+                  <l>(The Altar of our love) thy Stone.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Thou wonder of all Maids, li'ſt here,</l>
+                  <l>Of Daughters all, the Deereſt Deere;</l>
+                  <l>The eye of Virgins; nay, the Queen</l>
+                  <l>Of this ſmooth Green,</l>
+                  <l>And all ſweet Meades; from whence we get</l>
+                  <l>The Primroſe, and the Violet.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Too ſoon, too deere did <hi>Jephthah</hi> buy,</l>
+                  <l>By thy ſad loſſe, our liberty:</l>
+                  <l>His was the Bond and Cov'nant, yet</l>
+                  <l>Thou paid'ſt the debt,</l>
+                  <l>Lamented Maid! he won the day,</l>
+                  <l>But for the conqueſt thou didſt pay.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Thy Father brought with him along</l>
+                  <l>The Olive branch, and Victors Song:</l>
+                  <l>He ſlew the Ammonites, we know,</l>
+                  <l>But to thy woe;</l>
+                  <l>And in the purchaſe of our Peace,</l>
+                  <l>The Cure was worſe then the Diſeaſe.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>For which obedient zeale of thine,</l>
+                  <l>We offer here, before thy Shrine,</l>
+                  <l>Our ſighs for Storax, teares for Wine;</l>
+                  <l>And to make fine,</l>
+                  <l>And freſh thy Herſe-cloth, we will, here,</l>
+                  <l>Foure times beſtrew thee ev'ry yeere.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="27" facs="tcp:170728:15"/>
+                  <head>7</head>
+                  <l>Receive, for this thy praiſe, our teares:</l>
+                  <l>Receive this offering of our Haires:</l>
+                  <l>Receive theſe Chriſtall Vialls fil'd</l>
+                  <l>With teares, diſtil'd</l>
+                  <l>From teeming eyes; to theſe we bring,</l>
+                  <l>Each Maid, her ſilver Filleting,</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>To guild thy Tombe; beſides, theſe Caules,</l>
+                  <l>Theſe Laces, Ribbands, and theſe Faules,</l>
+                  <l>Theſe Veiles, wherewith we uſe to hide</l>
+                  <l>The Baſhfull Bride,</l>
+                  <l>When we conduct her to her Groome:</l>
+                  <l>All, all we lay upon thy Tombe.</l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>No more, no more, ſince thou art dead,</l>
+                  <l>Shall we ere bring coy Brides to bed;</l>
+                  <l>No more, at yeerly Feſtivalls</l>
+                  <l>We Cowſlip balls,</l>
+                  <l>Or chaines of Columbines ſhall make,</l>
+                  <l>For this, or that occaſions ſake.</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>No, no; our Maiden-pleaſures be</l>
+                  <l>Wrapt in the winding-ſheet, with thee:</l>
+                  <l>'Tis we are dead, though not i'th grave:</l>
+                  <l>Or, if we have</l>
+                  <l>One ſeed of life left, 'tis to keep</l>
+                  <l>A Lent for thee, to faſt and weep.</l>
+               </lg>
+               <lg n="11">
+                  <head>11</head>
+                  <l>Sleep in thy peace, thy bed of Spice;</l>
+                  <l>And make this place all Paradiſe:</l>
+                  <l>May Sweets grow here! &amp; ſmoke from hence,</l>
+                  <l>Fat Frankincenſe:</l>
+                  <l>Let Balme, and Caſſia ſend their ſcent</l>
+                  <l>From out thy Maiden-Monument.</l>
+               </lg>
+               <lg n="12">
+                  <pb n="28" facs="tcp:170728:16"/>
+                  <head>12</head>
+                  <l>May no Wolfe howle, or Screech-Owle ſtir</l>
+                  <l>A wing about thy Sepulcher!</l>
+                  <l>No boyſterous winds, or ſtormes, come hither,</l>
+                  <l>To ſtarve, or wither</l>
+                  <l>Thy ſoft ſweet Earth! but (like a ſpring)</l>
+                  <l>Love keep it ever flouriſhing.</l>
+               </lg>
+               <lg n="13">
+                  <head>13</head>
+                  <l>May all ſhie Maids, at wonted hours,</l>
+                  <l>Come forth, to ſtrew thy Tombe with flow'rs:</l>
+                  <l>May Virgins, when they come to mourn,</l>
+                  <l>Male-Incenſe burn</l>
+                  <l>Upon thine Altar! then return,</l>
+                  <l>And leave thee ſteeping in thy Urn.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To God, on his ſickneſſe.</head>
+               <l>WHat though my Harp, and Violl be</l>
+               <l>Both hung upon the Willow-tree?</l>
+               <l>What though my bed be now my grave,</l>
+               <l>And for my houſe I darkneſſe have?</l>
+               <l>What though my healthfull dayes are fled,</l>
+               <l>And I lie numbred with the dead?</l>
+               <l>Yet I have hope, by Thy great power,</l>
+               <l>To ſpring; though now a wither'd flower.</l>
+            </div>
+            <div type="poem">
+               <head>Sins loath'd, and yet lov'd.</head>
+               <l>SHame checks our firſt attempts; <hi>but then 'tis prov'd,</hi>
+               </l>
+               <l>Sins firſt diſlik'd, are after that belov'd.</l>
+            </div>
+            <div type="poem">
+               <head>Sin.</head>
+               <l>SIn leads the way, but as it goes, it feels</l>
+               <l>The following plague ſtill treading on his heels.</l>
+            </div>
+            <div type="poem">
+               <pb n="29" facs="tcp:170728:16"/>
+               <head>Upon God.</head>
+               <l>GOD when He takes my goods and chattels hence,</l>
+               <l>Gives me a portion, giving patience:</l>
+               <l>What is in God is God; if ſo it be,</l>
+               <l>He patience gives; He gives himſelfe to me.</l>
+            </div>
+            <div type="poem">
+               <head>Faith.</head>
+               <l>WHat here we hope for, we ſhall once inherit:</l>
+               <l>By Faith we all walk here, not by the Spirit.</l>
+            </div>
+            <div type="poem">
+               <head>Humility.</head>
+               <l>HUmble we muſt be, if to Heaven we go:</l>
+               <l>High is the roof there; but the gate is low:</l>
+               <l>When e're thou ſpeak'ſt, look with a lowly eye:</l>
+               <l>Grace is increaſed by humility.</l>
+            </div>
+            <div type="poem">
+               <head>Teares.</head>
+               <l>OUr preſent Teares here (not our preſent laughter)</l>
+               <l>Are but the handſells of our joyes hereafter.</l>
+            </div>
+            <div type="poem">
+               <head>Sin and Strife.</head>
+               <l>AFter true ſorrow for our ſinnes, our ſtrife</l>
+               <l>Muſt laſt with Satan, to the end of life.</l>
+            </div>
+            <div type="poem">
+               <head>An Ode, or Pſalme, to God.</head>
+               <lg>
+                  <l>DEer God,</l>
+                  <l>If thy ſmart Rod</l>
+                  <pb n="30" facs="tcp:170728:17"/>
+                  <l>Here did not make me ſorrie,</l>
+                  <l>I ſho'd not be</l>
+                  <l>With Thine, or Thee,</l>
+                  <l>In Thy eternall Glorie.</l>
+               </lg>
+               <lg>
+                  <l>But ſince</l>
+                  <l>Thou didſt convince</l>
+                  <l>My ſinnes, by gently ſtriking;</l>
+                  <l>Add ſtill to thoſe</l>
+                  <l>Firſt ſtripes, new blowes,</l>
+                  <l>According to Thy liking.</l>
+               </lg>
+               <lg>
+                  <l>Feare me,</l>
+                  <l>Or ſcourging teare me;</l>
+                  <l>That thus from vices driven,</l>
+                  <l>I may from Hell</l>
+                  <l>Flie up, to dwell</l>
+                  <l>With Thee, and Thine in Heaven.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Graces for Children.</head>
+               <l>WHat God gives, and what we take,</l>
+               <l>'Tis a gift for Chriſt His ſake:</l>
+               <l>Be the meale of Beanes and Peaſe,</l>
+               <l>God be thank'd for thoſe, and theſe:</l>
+               <l>Have we fleſh, or have we fiſh,</l>
+               <l>All are Fragments from His diſh.</l>
+               <l>He His Church ſave, and the King,</l>
+               <l>And our Peace here, like a Spring,</l>
+               <l>Make it ever flouriſhing.</l>
+            </div>
+            <div type="poem">
+               <head>God to be firſt ſerv'd.</head>
+               <l>HOnour thy Parents; but good manners call</l>
+               <l>Thee to adore thy God, the firſt of all.</l>
+            </div>
+            <div type="poem">
+               <pb n="31" facs="tcp:170728:17"/>
+               <head>Another Grace for a Child.</head>
+               <l>HEre a little child I ſtand,</l>
+               <l>Heaving up my either hand;</l>
+               <l>Cold as Paddocks though they be,</l>
+               <l>Here I lift them up to Thee,</l>
+               <l>For a Benizon to fall</l>
+               <l>On our meat, and on us all. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>A Chriſtmas <hi>Caroll,</hi> ſung to the King in the Preſence at <hi>White-Hall.</hi>
+               </head>
+               <lg>
+                  <head>Chor.</head>
+                  <l>WHat ſweeter muſick can we bring,</l>
+                  <l>Then a Caroll, for to ſing</l>
+                  <l>The Birth of this our heavenly King?</l>
+                  <l>Awake the Voice! Awake the String!</l>
+                  <l>Heart, Eare, and Eye, and every thing</l>
+                  <l>Awake! the while the active Finger</l>
+                  <l>Runs diviſion with the Singer.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>From the Flouriſh they came to the Song.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>Dark and dull night, flie hence away,</l>
+                  <l>And give the honour to this Day,</l>
+                  <l>That ſees <hi>December</hi> turn'd to <hi>May.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>If we may ask the reaſon, ſay;</l>
+                  <l>The why, and wherefore all things here</l>
+                  <l>Seem like the Spring-time of the yeere?</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Why do's the chilling Winters morne</l>
+                  <l>Smile, like a field beſet with corne?</l>
+                  <l>Or ſmell, like to a Meade new-ſhorne,</l>
+                  <l>Thus, on the ſudden? 4. Come and ſee</l>
+                  <l>The cauſe, why things thus fragrant be:</l>
+                  <l>'Tis He is borne, whoſe quickning Birth</l>
+                  <pb n="32" facs="tcp:170728:18"/>
+                  <l>Gives life and luſter, publike mirth,</l>
+                  <l>To Heaven, and the under-Earth.</l>
+               </lg>
+               <lg>
+                  <head>Chor.</head>
+                  <l>We ſee Him come, and know him ours,</l>
+                  <l>Who, with His Sun-ſhine, and His ſhowers,</l>
+                  <l>Turnes all the patient ground to flowers.</l>
+               </lg>
+               <lg n="1">
+                  <head>1</head>
+                  <l>The Darling of the world is come,</l>
+                  <l>And fit it is, we finde a roome</l>
+                  <l>To welcome Him. 2. The nobler part</l>
+                  <l>Of all the houſe here, is the heart,</l>
+               </lg>
+               <lg>
+                  <head>Chor.</head>
+                  <l>Which we will give Him; and bequeath</l>
+                  <l>This Hollie, and this Ivie Wreath,</l>
+                  <l>To do Him honour; who's our King,</l>
+                  <l>And Lord of all this Revelling.</l>
+               </lg>
+               <byline>The Muſicall Part was compoſed by <hi>M. Henry Lawes.</hi>
+               </byline>
+            </div>
+            <div type="poem">
+               <head>The New-yeeres Gift, or Circumciſions Song, ſung to the King in the Preſence at White-Hall.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>PRepare for Songs; He's come, He's come;</l>
+                  <l>And be it ſin here to be dumb,</l>
+                  <l>And not with Lutes to fill the roome.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Caſt Holy Water all about,</l>
+                  <l>And have a care no fire gos out,</l>
+                  <l>But 'cenſe the porch, and place throughout.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>The Altars all on fier be;</l>
+                  <l>The Storax fries; and ye may ſee,</l>
+                  <l>How heart and hand do all agree,</l>
+                  <l>To make things ſweet.</l>
+                  <lg>
+                     <head>Chor.</head>
+                     <l>Yet all leſs ſweet then He.</l>
+                  </lg>
+               </lg>
+               <lg n="4">
+                  <pb n="33" facs="tcp:170728:18"/>
+                  <head>4</head>
+                  <l>Bring Him along, moſt pious Prieſt,</l>
+                  <l>And tell us then, when as thou ſeeſt</l>
+                  <l>His gently-gliding, Dove-like eyes,</l>
+                  <l>And hear'ſt His whimp'ring, and His cries;</l>
+                  <l>How canſt thou this Babe circumciſe?</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Ye muſt not be more pitifull then wiſe;</l>
+                  <l>For, now unleſſe ye ſee Him bleed,</l>
+                  <l>Which makes the Bapti'me; 'tis decreed,</l>
+                  <l>The Birth is fruitleſſe:</l>
+                  <lg>
+                     <head>Chor.</head>
+                     <l>Then the <hi>work God ſpeed.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg n="1">
+                  <head>1</head>
+                  <l>Touch gently, gently touch; and here</l>
+                  <l>Spring Tulips up through all the yeere;</l>
+                  <l>And from His ſacred Bloud, here ſhed,</l>
+                  <l>May Roſes grow, to crown His own deare Head.</l>
+               </lg>
+               <lg>
+                  <head>Chor.</head>
+                  <l>Back, back again; each thing is done</l>
+                  <l>With zeale alike, as 'twas begun;</l>
+                  <l>Now ſinging, homeward let us carrie</l>
+                  <l>The Babe unto His Mother <hi>Marie;</hi>
+                  </l>
+                  <l>And when we have the Child commended</l>
+                  <l>To her warm boſome, then our Rites are ended.</l>
+               </lg>
+               <byline>Compoſed by M. <hi>Henry Lawes.</hi>
+               </byline>
+            </div>
+            <div type="poem">
+               <head>Another New-yeeres Gift, or Song for the Circumciſion.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>HEnce, hence prophane, and none appeare</l>
+                  <l>With any thing unhallowed, here:</l>
+                  <l>No jot of Leven muſt be found</l>
+                  <l>Conceal'd in this moſt holy Ground.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>What is corrupt, or ſowr'd with ſin,</l>
+                  <l>Leave that without, then enter in;</l>
+                  <lg>
+                     <head>Chor.</head>
+                     <l>But let no Chriſtmas mirth begin</l>
+                     <pb n="34" facs="tcp:170728:19"/>
+                     <l>Before ye purge, and circumciſe</l>
+                     <l>Your hearts, and hands, lips, eares, and eyes.</l>
+                  </lg>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Then, like a perfum'd Altar, ſee</l>
+                  <l>That all things ſweet, and clean may be:</l>
+                  <l>For, here's a Babe, that (like a <hi>Bride</hi>)</l>
+                  <l>Will <hi>bluſh to death,</hi> if ought be ſpi'd</l>
+                  <l>Ill-ſcenting, or unpurifi'd.</l>
+               </lg>
+               <lg>
+                  <head>Chor.</head>
+                  <l>The room is cens'd: help, help t'invoke</l>
+                  <l>Heaven to come down, the while we choke</l>
+                  <l>The Temple, with a cloud of ſmoke.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Come then, and gently touch the Birth</l>
+                  <l>Of Him, who's Lord of Heav'n and Earth;</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>And ſoftly handle Him: y'ad need,</l>
+                  <l>Becauſe the <hi>prettie Babe</hi> do's bleed.</l>
+                  <l>Poore-pittied Child! who from Thy Stall</l>
+                  <l>Bring'ſt, in Thy Blood, a Balm, that ſhall</l>
+                  <l>Be the beſt New-yeares Gift to all.</l>
+               </lg>
+               <lg n="1">
+                  <head>1</head>
+                  <l>Let's bleſſe the Babe: And, as we ſing</l>
+                  <l>His praiſe; ſo let us bleſſe the King:</l>
+               </lg>
+               <lg>
+                  <head>Chor.</head>
+                  <l>Long may He live, till He hath told</l>
+                  <l>His New-yeeres trebled to His old:</l>
+                  <l>And, when that's done, to re-aſpire</l>
+                  <l>A new-borne <hi>Phoenix</hi> from His own chaſt fire.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Gods Pardon.</head>
+               <l>WHen I ſhall ſin, pardon my treſpaſſe here;</l>
+               <l>For, once in hell, none knowes Remiſſion there.</l>
+            </div>
+            <div type="poem">
+               <pb n="35" facs="tcp:170728:19"/>
+               <head>Sin.</head>
+               <l>SIn once reacht up to Gods eternall Sphere,</l>
+               <l>And was committed, not remitted there.</l>
+            </div>
+            <div type="poem">
+               <head>Evill.</head>
+               <l>EVill no Nature hath; the loſſe of good</l>
+               <l>Is that which gives to ſin a livelihood.</l>
+            </div>
+            <div type="poem">
+               <head>The Star-Song: A Caroll to the King; ſung at White-Hall. The Flouriſh of Muſick: then followed the Song.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>TEll us, thou cleere and heavenly Tongue,</l>
+                  <l>Where is the Babe but lately ſprung?</l>
+                  <l>Lies He the Lillie-banks among?</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Or ſay, if this new Birth of ours</l>
+                  <l>Sleeps, laid within ſome Ark of Flowers,</l>
+                  <l>Spangled with deaw-light; thou canſt cleere</l>
+                  <l>All doubts, and manifeſt the where.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Declare to us, bright Star, if we ſhall ſeek</l>
+                  <l>Him in the Mornings bluſhing cheek,</l>
+                  <l>Or ſearch the beds of Spices through,</l>
+                  <l>To find him out?</l>
+                  <lg>
+                     <head>Star.</head>
+                     <l>No, this ye need not do;</l>
+                     <l>But only come, and ſee Him reſt</l>
+                     <l>A Princely Babe in's Mothers Breſt.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <head>Chor.</head>
+                  <l>He's ſeen, He's ſeen, why then a Round,</l>
+                  <l>Let's kiſſe the ſweet and holy ground;</l>
+                  <l>And all rejoyce, that we have found</l>
+                  <l>
+                     <hi>A King, before conception crown'd.</hi>
+                  </l>
+               </lg>
+               <lg n="4">
+                  <pb n="36" facs="tcp:170728:20"/>
+                  <head>4</head>
+                  <l>Come then, come then, and let us bring</l>
+                  <l>Unto our prettie <hi>Twelfth-Tide King,</hi>
+                  </l>
+                  <l>Each one his ſeverall offering;</l>
+               </lg>
+               <lg>
+                  <head>Chor.</head>
+                  <l>And when night comes, wee'l give Him waſſailing:</l>
+                  <l>And that His treble Honours may be ſeen,</l>
+                  <l>Wee'l chuſe Him King, and make His Mother Queen.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>WIth golden Cenſers, and with Incenſe, here,</l>
+               <l>Before Thy Virgin-Altar I appeare,</l>
+               <l>To pay Thee that I owe, ſince what I ſee</l>
+               <l>In, or without; all, all belongs to Thee:</l>
+               <l>Where ſhall I now begin to make, for one</l>
+               <l>Leaſt loane of Thine, half Reſtitution?</l>
+               <l>Alas! I cannot pay a jot; therefore</l>
+               <l>I'le kiſſe the Tally, and confeſſe the ſcore.</l>
+               <l>Ten thouſand Talents lent me, Thou doſt write:</l>
+               <l>'Tis true, my God; <hi>but I can't pay one mite.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>To his deere God.</head>
+               <lg>
+                  <l>I'Le hope no more,</l>
+                  <l>For things that will not come;</l>
+                  <l>And, if they do, they prove but cumberſome;</l>
+                  <l>Wealth brings much woe:</l>
+                  <l>And, ſince it fortunes ſo;</l>
+                  <l>'Tis better to be poore,</l>
+                  <l>Then ſo t'abound,</l>
+                  <l>As to be drown'd,</l>
+                  <l>Or overwhelm'd with ſtore.</l>
+               </lg>
+               <lg>
+                  <l>Pale care, avant,</l>
+                  <l>I'le learn to be content</l>
+                  <l>With that ſmall ſtock, Thy Bounty gave or lent.</l>
+                  <pb n="37" facs="tcp:170728:20"/>
+                  <l>What may conduce</l>
+                  <l>To my moſt healthfull uſe,</l>
+                  <l>Almighty God me grant;</l>
+                  <l>But that, or this,</l>
+                  <l>That hurtfull is,</l>
+                  <l>Denie Thy ſuppliant.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To God, his good will.</head>
+               <l>GOld I have none, but I preſent my need,</l>
+               <l>O Thou, that crown'ſt the will, where wants the deed.</l>
+               <l>Where Rams are wanting, or large Bullocks thighs,</l>
+               <l>There a poor Lamb's a plenteous ſacrifice.</l>
+               <l>Take then his Vowes, who, if he had it, would</l>
+               <l>Devote to Thee, both incenſe, myrrhe, and gold,</l>
+               <l>Upon an Altar rear'd by Him, and crown'd</l>
+               <l>Both with the <hi>Rubie, Pearle,</hi> and <hi>Diamond.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>On Heaven.</head>
+               <l>PErmit mine eyes to ſee</l>
+               <l>Part, or the whole of Thee,</l>
+               <l>O happy place!</l>
+               <l>Where all have Grace,</l>
+               <l>And Garlands ſhar'd,</l>
+               <l>For their reward;</l>
+               <l>Where each chaſt Soule</l>
+               <l>In long white ſtole,</l>
+               <l>And Palmes in hand,</l>
+               <l>Do raviſht ſtand;</l>
+               <l>So in a ring,</l>
+               <l>The praiſes ſing</l>
+               <l>Of Three in One,</l>
+               <l>That fill the Throne;</l>
+               <l>While Harps, and Vlolls then</l>
+               <l>To Voices, ſay, <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb n="38" facs="tcp:170728:21"/>
+               <head>The Summe, and the Satisfaction.</head>
+               <l>LAſt night I drew up mine Account,</l>
+               <l>And found my Debits to amount</l>
+               <l>To ſuch a height, as for to tell</l>
+               <l>How I ſho'd pay, 's impoſſible:</l>
+               <l>Well, this I'le do; my mighty ſcore</l>
+               <l>Thy mercy-ſeat I'le lay before;</l>
+               <l>But therewithall I'le bring the Band,</l>
+               <l>Which, in full force, did daring ſtand,</l>
+               <l>Till my Redeemer (on the Tree)</l>
+               <l>Made void for millions, as for me.</l>
+               <l>Then, if Thou bidſt me pay, or go</l>
+               <l>Unto the priſon, I'le ſay, no;</l>
+               <l>
+                  <hi>Chriſt</hi> having paid, I nothing owe:</l>
+               <l>For, this is ſure, the Debt is dead</l>
+               <l>By Law, the Bond once <hi>cancelled.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Good men afflicted moſt.</head>
+               <l>GOD makes not good men wantons, but doth bring</l>
+               <l>Them to the field, and, there, to skirmiſhing;</l>
+               <l>With trialls thoſe, with terrors theſe He proves,</l>
+               <l>And hazards thoſe moſt, whom the moſt He loves:</l>
+               <l>For <hi>Sceva,</hi> darts; for <hi>Cocles,</hi> dangers; thus</l>
+               <l>He finds a fire for mighty <hi>Mutius;</hi>
+               </l>
+               <l>Death for ſtout <hi>Cato;</hi> and beſides all theſe,</l>
+               <l>A poyſon too He has for <hi>Socrates;</hi>
+               </l>
+               <l>Torments for high <hi>Attilius;</hi> and, with want,</l>
+               <l>Brings in <hi>Fabricius</hi> for a Combatant:</l>
+               <l>But, baſtard-ſlips, and ſuch as He diſlikes,</l>
+               <l>He never brings them once to th' puſh of Pikes.</l>
+            </div>
+            <div type="poem">
+               <pb n="39" facs="tcp:170728:21"/>
+               <head>Good Chriſtians</head>
+               <l>PLay their offenſive and defenſive parts,</l>
+               <l>Till they be hid o're with a wood of darts.</l>
+            </div>
+            <div type="poem">
+               <head>The Will the cauſe of Woe.</head>
+               <l>WHen man is puniſht, he is plagued ſtill,</l>
+               <l>Not for the fault of Nature, but of will.</l>
+            </div>
+            <div type="poem">
+               <head>To Heaven.</head>
+               <l>OPen thy gates</l>
+               <l>To him, who weeping waits,</l>
+               <l>And might come in,</l>
+               <l>But that held back by ſin.</l>
+               <l>Let mercy be</l>
+               <l>So kind, to ſet me free,</l>
+               <l>And I will ſtrait</l>
+               <l>Come in, or force the gate.</l>
+            </div>
+            <div type="poem">
+               <head>The Recompence.</head>
+               <l>ALL I have loſt, that co'd be rapt from me;</l>
+               <l>And fare it well: yet <hi>Herrick,</hi> if ſo be</l>
+               <l>Thy Deereſt Saviour renders thee but one</l>
+               <l>Smile, that one ſmile's full reſtitution.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>PArdon me God, (once more I Thee intreat)</l>
+               <l>That I have plac'd Thee in ſo meane a ſeat,</l>
+               <l>Where round about Thou ſeeſt but all things vaine,</l>
+               <l>Uncircumcis'd, unſeaſon'd, and prophane.</l>
+               <l>But as Heavens publike and immortall Eye</l>
+               <pb n="40" facs="tcp:170728:22"/>
+               <l>Looks on the filth, but is not ſoil'd thereby;</l>
+               <l>So Thou, my God, may'ſt on this impure look,</l>
+               <l>But take no tincture from my ſinfull Book:</l>
+               <l>Let but one beame of Glory on it ſhine,</l>
+               <l>And that will make me, and my Work divine.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>LOrd, I am like to <hi>Miſletoe,</hi>
+               </l>
+               <l>Which has no root, and cannot grow,</l>
+               <l>Or proſper, but by that ſame tree</l>
+               <l>It clings about; ſo I by Thee.</l>
+               <l>What need I then to feare at all,</l>
+               <l>So long as I about Thee craule?</l>
+               <l>But if that Tree ſho'd fall, and die,</l>
+               <l>Tumble ſhall heav'n, and down will I.</l>
+            </div>
+            <div type="poem">
+               <head>His wiſh to God.</head>
+               <l>I Would to God, that mine old age might have</l>
+               <l>Before my laſt, but here a living grave,</l>
+               <l>Some one poore Almes-houſe; there to lie, or ſtir,</l>
+               <l>Ghoſt-like, as in my meaner ſepulcher;</l>
+               <l>A little piggin, and a pipkin by,</l>
+               <l>To hold things fitting my neceſſity;</l>
+               <l>Which, rightly us'd, both in their time and place,</l>
+               <l>Might me excite to fore, and after-grace.</l>
+               <l>Thy Croſſe, my <hi>Chriſt,</hi> fixt 'fore mine eyes ſho'd be,</l>
+               <l>Not to adore that, but to worſhip Thee.</l>
+               <l>So, here the remnant of my dayes I'd ſpend,</l>
+               <l>Reading Thy Bible, and my Book; <hi>ſo end.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Satan.</head>
+               <l>WHen we 'gainſt Satan ſtoutly fight, the more</l>
+               <l>He teares and tugs us, then he did before;</l>
+               <pb n="41" facs="tcp:170728:22"/>
+               <l>Neglecting once to caſt a frown on thoſe</l>
+               <l>Whom eaſe makes his, without the help of blowes.</l>
+            </div>
+            <div type="poem">
+               <head>Hell.</head>
+               <l>HEll is no other, but a ſoundleſſe pit,</l>
+               <l>Where no one beame of comfort peeps in it.</l>
+            </div>
+            <div type="poem">
+               <head>The way.</head>
+               <l>WHen I a ſhip ſee on the Seas,</l>
+               <l>Cuft with thoſe watrie ſavages,</l>
+               <l>And therewithall, behold, it hath</l>
+               <l>In all that way no beaten path;</l>
+               <l>Then, with a wonder, I confeſſe,</l>
+               <l>Thou art our way i'th wilderneſſe:</l>
+               <l>And while we blunder in the dark,</l>
+               <l>Thou art our candle there, or ſpark.</l>
+            </div>
+            <div type="poem">
+               <head>Great grief, great glory.</head>
+               <l>THe leſſe our ſorrowes here and ſuffrings ceaſe,</l>
+               <l>The more our Crownes of Glory there increaſe.</l>
+            </div>
+            <div type="poem">
+               <head>Hell.</head>
+               <l>HEll is the place where whipping-cheer abounds,</l>
+               <l>But no one Jailor there to waſh the wounds.</l>
+            </div>
+            <div type="poem">
+               <head>The Bell-man.</head>
+               <l>A Long the dark, and ſilent night,</l>
+               <l>With my Lantern, and my Light,</l>
+               <l>And the tinkling of my Bell,</l>
+               <l>Thus I walk, and this I tell:</l>
+               <l>Death and dreadfulneſſe call on,</l>
+               <pb n="42" facs="tcp:170728:23"/>
+               <l>To the gen'rall Seſſion;</l>
+               <l>To whoſe diſmall Barre, we there</l>
+               <l>All accompts muſt come to cleere:</l>
+               <l>Scores of ſins w'ave made here many,</l>
+               <l>Wip't out few, (God knowes) if any.</l>
+               <l>Riſe ye Debters then, and fall</l>
+               <l>To make paiment, while I call.</l>
+               <l>Ponder this, when I am gone;</l>
+               <l>By the clock 'tis almoſt <hi>One.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>The goodneſſe of his God.</head>
+               <lg>
+                  <l>WHen Winds and Seas do rage,</l>
+                  <l>And threaten to undo me,</l>
+                  <l>Thou doſt their wrath aſſwage,</l>
+                  <l>If I but call unto Thee.</l>
+               </lg>
+               <lg>
+                  <l>A mighty ſtorm laſt night</l>
+                  <l>Did ſeek my ſoule to ſwallow,</l>
+                  <l>But by the peep of light</l>
+                  <l>A gentle calme did follow.</l>
+               </lg>
+               <lg>
+                  <l>What need I then deſpaire,</l>
+                  <l>Though ills ſtand round about me;</l>
+                  <l>Since miſchiefs neither dare</l>
+                  <l>To bark, or bite, without Thee?</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>The VViddowes teares: or, Dirge of <hi>Dorcas.</hi>
+               </head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>COme pitie us, all ye, who ſee</l>
+                  <l>Our Harps hung on the Willow-tree:</l>
+                  <l>Come pitie us, ye Paſſers by,</l>
+                  <l>Who ſee, or heare poor Widdowes crie:</l>
+                  <l>Come pitie us; and bring your eares,</l>
+                  <l>And eyes, to pitie Widdowes teares.</l>
+                  <lg>
+                     <pb n="43" facs="tcp:170728:23"/>
+                     <head>Chor.</head>
+                     <l>And when you are come hither;</l>
+                     <l>Then we will keep</l>
+                     <l>A Faſt, and weep</l>
+                     <l>Our eyes out all together.</l>
+                  </lg>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>For <hi>Tabitha,</hi> who dead lies here,</l>
+                  <l>Clean waſht, and laid out for the Beere;</l>
+                  <l>O modeſt Matrons, weep and waile!</l>
+                  <l>For now the Corne and Wine muſt faile:</l>
+                  <l>The Basket and the Bynn of Bread,</l>
+                  <l>Wherewith ſo many ſoules were fed</l>
+                  <lg>
+                     <head>Chor.</head>
+                     <l>Stand empty here for ever:</l>
+                     <l>And ah! the Poore,</l>
+                     <l>At thy worne Doore,</l>
+                     <l>Shall be releeved never.</l>
+                  </lg>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Woe worth the Time, woe worth the day,</l>
+                  <l>That reav'd us of thee <hi>Tabitha!</hi>
+                  </l>
+                  <l>For we have loſt, with thee, the Meale,</l>
+                  <l>The Bits, the Morſells, and the deale</l>
+                  <l>Of gentle Paſte, and yeelding Dow,</l>
+                  <l>That Thou on Widdowes didſt beſtow.</l>
+                  <lg>
+                     <head>Chor.</head>
+                     <l>All's gone, and Death hath taken</l>
+                     <l>Away from us</l>
+                     <l>Our Maundie; thus,</l>
+                     <l>Thy Widdowes ſtand forſaken.</l>
+                  </lg>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Ah <hi>Dorcas, Dorcas!</hi> now adieu</l>
+                  <l>We bid the Creuſe and Pannier too:</l>
+                  <l>I and the fleſh, for and the fiſh,</l>
+                  <l>Dol'd to us in That Lordly diſh.</l>
+                  <l>We take our leaves now of the Loome,</l>
+                  <l>From whence the houſe-wives cloth did come:</l>
+                  <lg>
+                     <head>Chor.</head>
+                     <l>The web affords now nothing;</l>
+                     <l>Thou being dead,</l>
+                     <l>The wooſted thred</l>
+                     <l>Is cut, that made us clothing.</l>
+                  </lg>
+               </lg>
+               <lg n="5">
+                  <pb n="44" facs="tcp:170728:24"/>
+                  <head>5.</head>
+                  <l>Farewell the Flax and Reaming wooll,</l>
+                  <l>With which thy houſe was plentifull.</l>
+                  <l>Farewell the Coats, the Garments, and</l>
+                  <l>The Sheets, the Rugs, made by thy hand.</l>
+                  <l>Farewell thy Fier and thy Light,</l>
+                  <l>That ne're went out by Day or Night:</l>
+                  <lg>
+                     <head>Chor.</head>
+                     <l>No, or thy zeale ſo ſpeedy,</l>
+                     <l>That found a way</l>
+                     <l>By peep of day,</l>
+                     <l>To feed and cloth the Needy.</l>
+                  </lg>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>But, ah, alas! the Almond Bough,</l>
+                  <l>And Olive Branch is wither'd now.</l>
+                  <l>The Wine Preſſe now is ta'ne from us,</l>
+                  <l>The Saffron and the Calamus.</l>
+                  <l>The Spice and Spiknard hence is gone,</l>
+                  <l>The Storax and the Cynamon,</l>
+                  <lg>
+                     <head>Chor.</head>
+                     <l>The Caroll of our gladneſſe</l>
+                     <l>Ha's taken wing,</l>
+                     <l>And our late ſpring</l>
+                     <l>Of mirth is turn'd to ſadneſſe.</l>
+                  </lg>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>How wiſe waſt thou in all thy waies!</l>
+                  <l>How worthy of reſpect and praiſe!</l>
+                  <l>How Matron-like didſt thou go dreſt!</l>
+                  <l>How ſoberly above the reſt</l>
+                  <l>Of thoſe that prank it with their Plumes;</l>
+                  <l>And jet it with their choice purfumes.</l>
+                  <lg>
+                     <head>Chor.</head>
+                     <l>Thy veſtures were not flowing:</l>
+                     <l>Nor did the ſtreet</l>
+                     <l>Accuſe thy feet</l>
+                     <l>Of mincing in their going.</l>
+                  </lg>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>And though thou here li'ſt dead, we ſee</l>
+                  <l>A deale of beauty yet in thee.</l>
+                  <l>How ſweetly ſhewes thy ſmiling face,</l>
+                  <pb n="45" facs="tcp:170728:24"/>
+                  <l>Thy lips with all diffuſed grace!</l>
+                  <l>Thy hands (though cold) yet ſpotleſſe, white,</l>
+                  <l>And comely as the Chryſolite.</l>
+                  <lg>
+                     <head>Chor.</head>
+                     <l>Thy belly like a hill is,</l>
+                     <l>Or as a neat</l>
+                     <l>Cleane heap of wheat,</l>
+                     <l>All ſet about with Lillies.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Sleep with thy beauties here, while we</l>
+                  <l>Will ſhew theſe garments made by thee;</l>
+                  <l>Theſe were the Coats, in theſe are read</l>
+                  <l>The monuments of <hi>Dorcas</hi> dead.</l>
+                  <l>Theſe were thy Acts, and thou ſhalt have</l>
+                  <l>Theſe hung, as honours o're thy Grave,</l>
+                  <lg>
+                     <head>Chor.</head>
+                     <l>And after us (diſtreſſed)</l>
+                     <l>Sho'd fame be dumb;</l>
+                     <l>Thy very Tomb</l>
+                     <l>Would cry out, <hi>Thou art bleſſed.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To God, in time of plundering.</head>
+               <l>RApine has yet tooke nought from me;</l>
+               <l>But if it pleaſe my God, I be</l>
+               <l>Brought at the laſt to th' utmoſt bit,</l>
+               <l>God make me thankfull ſtill for it.</l>
+               <l>I have been gratefull for my ſtore:</l>
+               <l>Let me ſay grace when there's no more.</l>
+            </div>
+            <div type="poem">
+               <head>To his Saviour. The New yeers gift.</head>
+               <lg>
+                  <l>THat little prettie bleeding part</l>
+                  <l>Of Foreskin ſend to me:</l>
+                  <l>And Ile returne a bleeding Heart,</l>
+                  <l>For New-yeers gift to thee.</l>
+               </lg>
+               <lg>
+                  <l>Rich is the Jemme that thou did'ſt ſend,</l>
+                  <pb n="46" facs="tcp:170728:25"/>
+                  <l>Mine's faulty too, and ſmall:</l>
+                  <l>But yet this Gift Thou wilt commend,</l>
+                  <l>Becauſe I ſend Thee <hi>all.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Doomes-Day.</head>
+               <l>LEt not that Day Gods Friends and Servants ſcare<g ref="char:punc">▪</g>
+               </l>
+               <l>The Bench is then their place; and not the Barre.</l>
+            </div>
+            <div type="poem">
+               <head>The Poores Portion.</head>
+               <l>THe ſup'rabundance of my ſtore,</l>
+               <l>That is the portion of the poore:</l>
+               <l>Wheat, Barley, Rie, or Oats; what is't</l>
+               <l>But he takes tole of? all the Grieſt.</l>
+               <l>Two raiments have I: <hi>Chriſt</hi> then makes</l>
+               <l>This Law; that He and I part ſtakes.</l>
+               <l>Or have I two loaves; then I uſe</l>
+               <l>The poore to cut, and I to chuſe.</l>
+            </div>
+            <div type="poem">
+               <head>The white Iſland: or place of the Bleſt.</head>
+               <lg>
+                  <l>IN this world (the <hi>Iſle of Dreames</hi>)</l>
+                  <l>While we ſit by ſorrowes ſtreames,</l>
+                  <l>Teares and terrors are our theames</l>
+                  <l>Reciting:</l>
+               </lg>
+               <lg>
+                  <l>But when once from hence we flie,</l>
+                  <l>More and more approaching nigh</l>
+                  <l>Unto young Eternitie</l>
+                  <l>Uniting:</l>
+               </lg>
+               <lg>
+                  <l>In that <hi>whiter Iſland,</hi> where</l>
+                  <l>Things are evermore ſincere;</l>
+                  <l>Candor here, and luſtre there</l>
+                  <l>Delighting:</l>
+               </lg>
+               <lg>
+                  <pb n="47" facs="tcp:170728:25"/>
+                  <l>There no monſtrous fancies ſhall</l>
+                  <l>Out of hell an horrour call,</l>
+                  <l>To create (or cauſe at all)</l>
+                  <l>Affrighting.</l>
+               </lg>
+               <lg>
+                  <l>There in calm and cooling ſleep</l>
+                  <l>We our eyes ſhall never ſteep;</l>
+                  <l>But eternall watch ſhall keep,</l>
+                  <l>Attending</l>
+               </lg>
+               <lg>
+                  <l>Pleaſures, ſuch as ſhall purſue</l>
+                  <l>Me immortaliz'd, and you;</l>
+                  <l>And freſh joyes, as never too</l>
+                  <l>Have ending.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To Chriſt.</head>
+               <l>I Crawle, I creep; my <hi>Chriſt,</hi> I come</l>
+               <l>To Thee, for curing <hi>Balſamum:</hi>
+               </l>
+               <l>Thou haſt, nay more, Thou art the Tree,</l>
+               <l>Affording ſalve of Soveraigntie.</l>
+               <l>My mouth I'le lay unto Thy wound</l>
+               <l>Bleeding, that no Blood touch the ground:</l>
+               <l>For, rather then one drop ſhall fall</l>
+               <l>To waſt, my JESU, I'le take all.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>GOD! to my little meale and oyle,</l>
+               <l>Add but a bit of fleſh, to boyle:</l>
+               <l>And Thou my Pipkinnet ſhalt ſee,</l>
+               <l>Give a <hi>wave-offring</hi> unto Thee.</l>
+            </div>
+            <div type="poem">
+               <pb n="48" facs="tcp:170728:26"/>
+               <head>Free Welcome.</head>
+               <l>GOD He refuſeth no man; but makes way</l>
+               <l>For All that now come, or hereafter may.</l>
+            </div>
+            <div type="poem">
+               <head>Gods Grace.</head>
+               <l>GODS Grace deſerves here to be daily fed,</l>
+               <l>That, thus increaſt, it might be perfected.</l>
+            </div>
+            <div type="poem">
+               <head>Coming to Chriſt.</head>
+               <l>TO him, who longs unto his CHRIST to go,</l>
+               <l>Celerity even it ſelf is ſlow.</l>
+            </div>
+            <div type="poem">
+               <head>Correction.</head>
+               <l>GOD had but one Son free from ſin; but none</l>
+               <l>Of all His ſonnes free from correction.</l>
+            </div>
+            <div type="poem">
+               <head>Gods Bounty.</head>
+               <l>GOD, as He's potent, ſo He's likewiſe known,</l>
+               <l>To give us more then Hope can fix upon.</l>
+            </div>
+            <div type="poem">
+               <head>Knowledge.</head>
+               <l>SCience in God, is known to be</l>
+               <l>A Subſtance, not a Qualitie.</l>
+            </div>
+            <div type="poem">
+               <head>Salutation.</head>
+               <l>CHRIST, I have read, did to His Chaplains ſay,</l>
+               <l>Sending them forth, <hi>Salute no man by'th way:</hi>
+               </l>
+               <l>Not, that He taught His Miniſters to be</l>
+               <pb n="49" facs="tcp:170728:26"/>
+               <l>Unſmooth, or ſowre, to all civilitie;</l>
+               <l>But to inſtruct them, to avoid all ſnares</l>
+               <l>Of tardidation in the Lords Affaires.</l>
+               <l>Manners are good: but till his errand ends,</l>
+               <l>Salute we muſt, nor Strangers, Kin, or Friends.</l>
+            </div>
+            <div type="poem">
+               <head>Laſciviouſneſſe.</head>
+               <l>LAſciviouſneſſe is known to be</l>
+               <l>The ſiſter to ſaturitie.</l>
+            </div>
+            <div type="poem">
+               <head>Teares.</head>
+               <l>GOD from our eyes all teares hereafter wipes,</l>
+               <l>And gives His Children kiſſes then, not ſtripes.</l>
+            </div>
+            <div type="poem">
+               <head>Gods Bleſsing.</head>
+               <l>IN vain our labours are, whatſoe're they be,</l>
+               <l>Unleſſe God gives the <hi>Benedicite.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>God, and Lord.</head>
+               <l>GOD, is His Name of Nature; but that word</l>
+               <l>Implies His Power, <hi>when He's cal'd the LORD.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>The Iudgment-Day.</head>
+               <l>GOD hides from man the reck'ning Day, that He</l>
+               <l>May feare it ever for uncertaintie:</l>
+               <l>That being ignorant of that one, he may</l>
+               <l>Expect the coming of it ev'ry day.</l>
+            </div>
+            <div type="poem">
+               <pb n="50" facs="tcp:170728:27"/>
+               <head>Angells.</head>
+               <l>ANgells are called Gods; yet of them, none</l>
+               <l>Are Gods, but by <hi>participation:</hi>
+               </l>
+               <l>As Juſt Men are intitled Gods, yet none</l>
+               <l>Are Gods, of them, but by Adoption.</l>
+            </div>
+            <div type="poem">
+               <head>Long life.</head>
+               <l>THe longer thred of life we ſpin,</l>
+               <l>The more occaſion ſtill to ſin.</l>
+            </div>
+            <div type="poem">
+               <head>Teares.</head>
+               <l>THe teares of Saints more ſweet by farre,</l>
+               <l>Then all the ſongs of ſinners are.</l>
+            </div>
+            <div type="poem">
+               <head>Manna.</head>
+               <l>THat Manna, which God on His people caſt,</l>
+               <l>Fitted it ſelf to ev'ry Feeders taſt.</l>
+            </div>
+            <div type="poem">
+               <head>Reverence.</head>
+               <l>TRue rev'rence is (as <hi>Caſſiadore</hi> doth prove)</l>
+               <l>The feare of God, commixt with cleanly love.</l>
+            </div>
+            <div type="poem">
+               <head>Mercy.</head>
+               <l>MErcy, the wiſe Athenians held to be</l>
+               <l>Not an Affection, but a <hi>Deitie.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb n="51" facs="tcp:170728:27"/>
+               <head>Wages.</head>
+               <l>AFter this life, the wages ſhall</l>
+               <l>Not ſhar'd alike be unto all.</l>
+            </div>
+            <div type="poem">
+               <head>Temptation.</head>
+               <l>GOD tempteth no one (as S. <hi>Aug'ſtine</hi> ſaith)</l>
+               <l>For any ill; but, for the proof of Faith:</l>
+               <l>Unto temptation God expoſeth ſome;</l>
+               <l>But none, of purpoſe, to be overcome.</l>
+            </div>
+            <div type="poem">
+               <head>Gods hands.</head>
+               <l>GOds Hands are round, &amp; ſmooth, that gifts may fall</l>
+               <l>Freely from them, and hold none back at all.</l>
+            </div>
+            <div type="poem">
+               <head>Labour.</head>
+               <l>LAbour we muſt, and labour hard</l>
+               <l>I'th <hi>Forum</hi> here, or <hi>Vineyard.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Mora Sponſi,</hi> the ſtay of the Bridegroome.</head>
+               <l>THe time the Bridegroom ſtayes from hence,</l>
+               <l>Is but the time of penitence.</l>
+            </div>
+            <div type="poem">
+               <head>Roaring.</head>
+               <l>ROaring is nothing but a weeping part,</l>
+               <l>Forc'd from the mighty dolour of the heart.</l>
+            </div>
+            <div type="poem">
+               <pb n="52" facs="tcp:170728:28"/>
+               <head>The Euchariſt.</head>
+               <l>
+                  <hi>HE that is hurt ſeeks help:</hi> ſin is the wound;</l>
+               <l>The ſalve for this i'th Euchariſt is found.</l>
+            </div>
+            <div type="poem">
+               <head>Sin ſeverely puniſht.</head>
+               <l>GOD in His own Day will be then ſevere,</l>
+               <l>To puniſh great ſins, who ſmall faults whipt here.</l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Montes Scripturarum,</hi> the Mounts of the Scriptures.</head>
+               <l>THe Mountains of the Scriptures are (ſome ſay)</l>
+               <l>
+                  <hi>Moſes,</hi> and <hi>Ieſus,</hi> called <hi>Ioſhua:</hi>
+               </l>
+               <l>The <hi>Prophets</hi> Mountains of the Old are meant;</l>
+               <l>Th' <hi>Apoſtles</hi> Mounts of the <hi>New Teſtament.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Prayer.</head>
+               <l>A Prayer, that is ſaid alone,</l>
+               <l>Starves, having no companion.</l>
+               <l>Great things ask for, when thou doſt pray,</l>
+               <l>And thoſe great are, which ne're decay.</l>
+               <l>Pray not for ſilver, ruſt eats this;</l>
+               <l>Ask not for gold, which metall is:</l>
+               <l>Nor yet for houſes, which are here</l>
+               <l>But earth: <hi>ſuch vowes nere reach Gods eare.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Chriſts ſadneſſe.</head>
+               <l>CHriſt was not ſad, i'th garden, for His own</l>
+               <l>Paſſion, but for His ſheeps diſperſion.</l>
+            </div>
+            <div type="poem">
+               <pb n="53" facs="tcp:170728:28"/>
+               <head>God heares us.</head>
+               <l>GOD, who's in Heav'n, will hear from thence;</l>
+               <l>If not to'th ſound, yet, to the ſenſe.</l>
+            </div>
+            <div type="poem">
+               <head>God.</head>
+               <l>GOD (as the learned <hi>Damaſcen</hi> doth write)</l>
+               <l>A <hi>Sea of Subſtance</hi> is, <hi>Indefinite.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Clouds.</head>
+               <l>HE that aſcended in a cloud, ſhall come</l>
+               <l>In clouds, deſcending to the publike <hi>Doome.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Comforts in contentions.</head>
+               <l>THe ſame, who crownes the Conquerour, will be</l>
+               <l>A Coadjutor in the Agonie.</l>
+            </div>
+            <div type="poem">
+               <head>Heaven.</head>
+               <l>HEav'n is moſt faire; but fairer He</l>
+               <l>That made that faireſt Canopie.</l>
+            </div>
+            <div type="poem">
+               <head>God.</head>
+               <l>IN God there's nothing, but 'tis known to be</l>
+               <l>Ev'n God Himſelf, in perfect <hi>Entitie.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>His Power.</head>
+               <l>GOD can do all things, ſave but what are known</l>
+               <l>For to imply a contradiction.</l>
+            </div>
+            <div type="poem">
+               <pb n="54" facs="tcp:170728:29"/>
+               <head>Christs words on the Croſſe, <hi>My God, My God.</hi>
+               </head>
+               <l>CHRIST, when He hung the dreadfull Croſſe upon,</l>
+               <l>Had (as it were) a <hi>Dereliction;</hi>
+               </l>
+               <l>In this regard, in thoſe great terrors He</l>
+               <l>Had no one <hi>Beame</hi> from Gods ſweet Majeſtie.</l>
+            </div>
+            <div type="poem">
+               <head>JEHOVAH.</head>
+               <l>IEHOVAH, as <hi>Boëtius</hi> ſaith,</l>
+               <l>No number of the <hi>Plurall</hi> hath.</l>
+            </div>
+            <div type="poem">
+               <head>Confuſion of face.</head>
+               <l>GOd then confounds mans face, when He not hears</l>
+               <l>The Vowes of thoſe, who are Petitioners.</l>
+            </div>
+            <div type="poem">
+               <head>Another.</head>
+               <l>THe ſhame of mans face is no more</l>
+               <l>Then prayers repel'd, (ſayes <hi>Caſſiodore.</hi>)</l>
+            </div>
+            <div type="poem">
+               <head>Beggars.</head>
+               <l>
+                  <hi>IAcob</hi> Gods Beggar was; and ſo we wait</l>
+               <l>(Though ne're ſo rich) all beggars at His Gate.</l>
+            </div>
+            <div type="poem">
+               <head>Good, and bad.</head>
+               <l>THe Bad among the Good are here mixt ever:</l>
+               <l>The Good without the Bad are here plac'd never.</l>
+            </div>
+            <div type="poem">
+               <head>Sin.</head>
+               <l>SIn no Exiſtence; Nature none it hath,</l>
+               <l>Or Good at all, (<hi>as learn'd</hi> Aquinas <hi>ſaith.</hi>)</l>
+            </div>
+            <div type="poem">
+               <pb n="55" facs="tcp:170728:29"/>
+               <head>Martha, Martha.</head>
+               <l>THe repetition of the name made known</l>
+               <l>No other, then <hi>Chriſts</hi> full Affection.</l>
+            </div>
+            <div type="poem">
+               <head>Youth, and Age.</head>
+               <l>GOD on our Youth beſtowes but little eaſe;</l>
+               <l>But on our Age moſt ſweet <hi>Indulgences.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Gods Power.</head>
+               <l>GOD is ſo potent, as His Power can</l>
+               <l>Draw out of <hi>bad</hi> a ſoveraigne <hi>good</hi> to man.</l>
+            </div>
+            <div type="poem">
+               <head>Paradiſe.</head>
+               <l>
+                  <hi>PAradiſe is (as from the Learn'd I gather)</hi>
+               </l>
+               <l>A quire of bleſt Soules circling in the Father.</l>
+            </div>
+            <div type="poem">
+               <head>Obſervation.</head>
+               <l>THe Jewes, when they built Houſes (I have read)</l>
+               <l>One part thereof left ſtill unfiniſhed:</l>
+               <l>To make them, thereby, mindfull of their own</l>
+               <l>Cities moſt ſad and dire deſtruction.</l>
+            </div>
+            <div type="poem">
+               <head>The Aſſe.</head>
+               <l>GOD did forbid the Iſraelites, to bring</l>
+               <l>An Aſſe unto Him, for an <hi>offering:</hi>
+               </l>
+               <l>Onely, by this dull creature, to expreſſe</l>
+               <l>His deteſtation to all ſlothfulneſſe.</l>
+            </div>
+            <div type="poem">
+               <pb n="56" facs="tcp:170728:30"/>
+               <head>Obſervation.</head>
+               <l>THe Virgin-Mother ſtood at diſtance (there)</l>
+               <l>From her Sonnes Croſſe, not ſhedding once a teare:</l>
+               <l>Becauſe the Law forbad to ſit and crie</l>
+               <l>For thoſe, who did as malefactors die.</l>
+               <l>So ſhe, to keep her mighty woes in awe,</l>
+               <l>Tortur'd her love, not to tranſgreſſe the Law.</l>
+               <l>Obſerve we may, how <hi>Mary Joſes</hi> then,</l>
+               <l>And th'other <hi>Mary (Mary Magdalen)</hi>
+               </l>
+               <l>Sate by the Grave; and ſadly ſitting there,</l>
+               <l>Shed for their Maſter many a bitter teare:</l>
+               <l>But 'twas not till their <hi>deareſt Lord</hi> was dead;</l>
+               <l>And then to weep they both were licenſed.</l>
+            </div>
+            <div type="poem">
+               <head>Tapers.</head>
+               <l>THoſe Tapers, which we ſet upon the grave,</l>
+               <l>In fun'rall pomp, but this importance have;</l>
+               <l>That ſoules departed are not put out quite;</l>
+               <l>But, as they walk't here in their <hi>veſtures</hi> white,</l>
+               <l>So live in Heaven, in everlaſting light.</l>
+            </div>
+            <div type="poem">
+               <head>Chriſts Birth.</head>
+               <l>ONe Birth our Saviour had; the like none yet</l>
+               <l>Was, or will be a <hi>ſecond</hi> like to it.</l>
+            </div>
+            <div type="poem">
+               <head>The Virgin <hi>Mary.</hi>
+               </head>
+               <l>TO work a <hi>wonder,</hi> God would have her ſhown,</l>
+               <l>At once, a Bud, and yet a <hi>Roſe full-blowne.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb n="57" facs="tcp:170728:30"/>
+               <head>Another.</head>
+               <l>AS Sun-beames pierce the glaſſe, and ſtreaming in,</l>
+               <l>No crack or Schiſme leave i'th ſubtill skin:</l>
+               <l>So the Divine Hand work't, and brake no thred,</l>
+               <l>But, in a <hi>Mother,</hi> kept a <hi>maiden-head.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>God.</head>
+               <l>GOD, in the <hi>holy Tongue,</hi> they call</l>
+               <l>The Place that filleth <hi>All in all.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Another of God.</head>
+               <l>GOD's ſaid to leave this place, and for to come</l>
+               <l>Nearer to that place, then to other ſome:</l>
+               <l>Of locall motion, in no leaſt reſpect,</l>
+               <l>But only by impreſſion of effect.</l>
+            </div>
+            <div type="poem">
+               <head>Another.</head>
+               <l>GOD is <hi>Jehovah</hi> cal'd; which name of His</l>
+               <l>Implies or <hi>Eſſence,</hi> or the <hi>He</hi> that Is.</l>
+            </div>
+            <div type="poem">
+               <head>Gods preſence.</head>
+               <l>GOD's evident, and may be ſaid to be</l>
+               <l>Preſent with juſt men, to the veritie:</l>
+               <l>But with the wicked if He doth comply,</l>
+               <l>'Tis (as S. <hi>Bernard</hi> ſaith) but ſeemingly.</l>
+            </div>
+            <div type="poem">
+               <head>Gods Dwelling.</head>
+               <l>GOD's ſaid to dwell there, whereſoever He</l>
+               <l>Puts down ſome prints of His high Majeſtie:</l>
+               <pb n="58" facs="tcp:170728:31"/>
+               <l>As when to man He comes, and there doth place</l>
+               <l>His <hi>holy Spirit,</hi> or doth plant His <hi>Grace.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>The Virgin <hi>Mary.</hi>
+               </head>
+               <l>THe <hi>Virgin Marie</hi> was (as I have read)</l>
+               <l>The <hi>Houſe of God,</hi> by <hi>Chriſt</hi> inhabited;</l>
+               <l>Into the which He enter'd: but, the Doore</l>
+               <l>Once ſhut, was never to be open'd more.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>GOD's undivided, <hi>One</hi> in <hi>Perſons Three;</hi>
+               </l>
+               <l>And <hi>Three</hi> in <hi>Inconfuſed <g ref="char:V">Ʋ</g>nity:</hi>
+               </l>
+               <l>
+                  <hi>Originall of Eſſence</hi> there is none</l>
+               <l>'Twixt God the <hi>Father, Holy Ghoſt,</hi> and <hi>Sonne:</hi>
+               </l>
+               <l>And though the <hi>Father</hi> be the firſt of <hi>Three,</hi>
+               </l>
+               <l>'Tis but by <hi>Order,</hi> not by <hi>Entitie.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Upon Woman and <hi>Mary.</hi>
+               </head>
+               <l>SO long (it ſeem'd) as <hi>Maries</hi> Faith was ſmall,</l>
+               <l>
+                  <hi>Chriſt</hi> did her <hi>Woman,</hi> not her <hi>Mary</hi> call:</l>
+               <l>But no more <hi>Woman,</hi> being ſtrong in Faith;</l>
+               <l>But <hi>Mary</hi> cal'd then (as S. <hi>Ambroſe</hi> ſaith.)</l>
+            </div>
+            <div type="poem">
+               <head>North and South.</head>
+               <l>THe <hi>Jewes</hi> their beds, and offices of eaſe,</l>
+               <l>Plac't <hi>North</hi> and <hi>South,</hi> for theſe cleane purpoſes;</l>
+               <l>That mans uncomely froth might not moleſt</l>
+               <l>Gods wayes and walks, which lie ſtill Eaſt and Weſt.</l>
+            </div>
+            <div type="poem">
+               <pb n="59" facs="tcp:170728:31"/>
+               <head>Sabbaths.</head>
+               <l>
+                  <hi>SAbbaths</hi> are threefold, (as S. <hi>Auſtine</hi> ſayes:)</l>
+               <l>The firſt of Time, or Sabbath here of Dayes;</l>
+               <l>The ſecond is a Conſcience treſpaſſe-free;</l>
+               <l>The laſt the <hi>Sabbath of Eternitie.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>The Faſt, or Lent.</head>
+               <l>
+                  <hi>NOah</hi> the firſt was (as Tradition ſayes)</l>
+               <l>That did ordaine the Faſt of forty Dayes.</l>
+            </div>
+            <div type="poem">
+               <head>Sin.</head>
+               <l>THere is no evill that we do commit,</l>
+               <l>But hath th' extraction of ſome good from it:</l>
+               <l>As when we ſin; God, the great <hi>Chymiſt,</hi> thence</l>
+               <l>Drawes out th' <hi>Elixar</hi> of true penitence.</l>
+            </div>
+            <div type="poem">
+               <head>God.</head>
+               <l>GOD is more here, then in another place,</l>
+               <l>Not by His <hi>Eſſence,</hi> but commerce of <hi>Grace.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>This, and the next World.</head>
+               <l>GOD hath this world for many made; 'tis true:</l>
+               <l>But He hath made the world to come for few.</l>
+            </div>
+            <div type="poem">
+               <head>Eaſe.</head>
+               <l>GOD gives to none ſo abſolute an Eaſe,</l>
+               <l>As not to know, or feel ſome <hi>Grievances.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb n="60" facs="tcp:170728:32"/>
+               <head>Beginnings and Endings.</head>
+               <l>
+                  <hi>PAul,</hi> he began ill, but he ended well;</l>
+               <l>
+                  <hi>Judas</hi> began well, but he foulely fell:</l>
+               <l>In godlineſſe, not the beginnings, ſo</l>
+               <l>Much as the ends are to be lookt unto.</l>
+            </div>
+            <div type="poem">
+               <head>Temporall goods.</head>
+               <l>THeſe temp'rall goods God (the moſt Wiſe) com<g ref="char:EOLhyphen"/>mends</l>
+               <l>To th' good and bad, in common, for two ends:</l>
+               <l>Firſt, that theſe goods none here may o're eſteem,</l>
+               <l>Becauſe the wicked do partake of them:</l>
+               <l>Next, that theſe ills none cowardly may ſhun;</l>
+               <l>Being, oft here, the juſt mans portion.</l>
+            </div>
+            <div type="poem">
+               <head>Hell fire.</head>
+               <l>THe fire of Hell this ſtrange condition hath,</l>
+               <l>To burn, not ſhine (as learned <hi>Baſil</hi> ſaith.)</l>
+            </div>
+            <div type="poem">
+               <head>Abels <hi>Bloud.</hi>
+               </head>
+               <l>SPeak, did the Bloud of <hi>Abel</hi> cry</l>
+               <l>To God for vengeance? yes ſay I;</l>
+               <l>Ev'n as the ſprinkled bloud cal'd on</l>
+               <l>God, for an expiation.</l>
+            </div>
+            <div type="poem">
+               <head>Another.</head>
+               <l>THe bloud of <hi>Abel</hi> was a thing</l>
+               <l>Of ſuch a rev'rend reckoning,</l>
+               <l>As that the old World thought it fit,</l>
+               <l>Eſpecially to ſweare by it.</l>
+            </div>
+            <div type="poem">
+               <pb n="61" facs="tcp:170728:32"/>
+               <head>A Poſition in the Hebrew Divinity.</head>
+               <l>ONe man repentant is of more eſteem</l>
+               <l>With God, then one, that never ſin'd 'gainſt Him.</l>
+            </div>
+            <div type="poem">
+               <head>Penitence.</head>
+               <l>THe Doctors, in the Talmud, ſay,</l>
+               <l>That in this world, one onely day</l>
+               <l>In true repentance ſpent, will be</l>
+               <l>More worth, then Heav'ns Eternitie.</l>
+            </div>
+            <div type="poem">
+               <head>Gods preſence.</head>
+               <l>GOD's preſent ev'ry where; but moſt of all</l>
+               <l>Preſent by Union <hi>Hypoſtaticall:</hi>
+               </l>
+               <l>God, He is there, where's nothing elſe (Schooles ſay)</l>
+               <l>And nothing elſe is there, <hi>where He's away.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>The Reſurrection poſsible, and probable.</head>
+               <l>FOr each one Body, that i'th earth is ſowne,</l>
+               <l>There's an up-riſing but of one for one:</l>
+               <l>But for each Graine, that in the ground is thrown,</l>
+               <l>Threeſcore or foureſcore ſpring up thence for one:</l>
+               <l>So that the wonder is not halfe ſo great,</l>
+               <l>Of ours, as is the riſing of the wheat.</l>
+            </div>
+            <div type="poem">
+               <head>Chriſts ſuffering.</head>
+               <l>IUſtly our <hi>deareſt Saviour</hi> may abhorre us,</l>
+               <l>Who hath more ſuffer'd by us farre, then for us.</l>
+            </div>
+            <div type="poem">
+               <pb n="62" facs="tcp:170728:33"/>
+               <head>Sinners.</head>
+               <l>SInners confounded are a twofold way,</l>
+               <l>Either as when (the learned Schoolemen ſay)</l>
+               <l>Mens ſins deſtroyed are, when they repent;</l>
+               <l>Or when, for ſins, men ſuffer puniſhment.</l>
+            </div>
+            <div type="poem">
+               <head>Temptations.</head>
+               <l>NO man is tempted ſo, but may o'recome,</l>
+               <l>If that he has a will to Maſterdome.</l>
+            </div>
+            <div type="poem">
+               <head>Pittie, and puniſhment.</head>
+               <l>GOD doth embrace the good with love; &amp; gaines</l>
+               <l>The good by mercy, as the bad by paines.</l>
+            </div>
+            <div type="poem">
+               <head>Gods price, and mans price.</head>
+               <l>GOd bought man here w<hi rend="sup">t</hi>sh his hearts blood expence;</l>
+               <l>And man ſold God here for baſe <hi>thirty pence.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Chriſts Action.</head>
+               <l>CHRIST never did ſo great a work, but there</l>
+               <l>His humane Nature did, in part, appeare:</l>
+               <l>Or, ne're ſo meane a peece, but men might ſee</l>
+               <l>Therein ſome beames of His Divinitie:</l>
+               <l>So that, in all He did, there did combine</l>
+               <l>His Humane Nature, and His Part Divine,</l>
+            </div>
+            <div type="poem">
+               <head>Predeſtination.</head>
+               <l>
+                  <hi>PRedeſtination</hi> is the Cauſe alone</l>
+               <l>Of many ſtanding, but of fall to none.</l>
+            </div>
+            <div type="poem">
+               <pb n="63" facs="tcp:170728:33"/>
+               <head>Another.</head>
+               <l>ARt thou not deſtin'd? then, with haſt, go on</l>
+               <l>To make thy faire <hi>Predeſtination:</hi>
+               </l>
+               <l>If thou canſt change thy life, God then will pleaſe</l>
+               <l>To change, or call back, His paſt <hi>Sentences.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Sin.</head>
+               <l>SIn never ſlew a ſoule, unleſſe there went</l>
+               <l>Along with it ſome tempting blandiſhment.</l>
+            </div>
+            <div type="poem">
+               <head>Another.</head>
+               <l>SIn is an act ſo free, that if we ſhall</l>
+               <l>Say, 'tis not free, 'tis then no ſin at all.</l>
+            </div>
+            <div type="poem">
+               <head>Another.</head>
+               <l>SIn is the cauſe of death; and ſin's alone</l>
+               <l>The cauſe of Gods <hi>Predeſtination:</hi>
+               </l>
+               <l>And from Gods <hi>Preſcience</hi> of mans ſin doth flow</l>
+               <l>Our <hi>Deſtination</hi> to eternall woe.</l>
+            </div>
+            <div type="poem">
+               <head>Preſcience.</head>
+               <l>GOds <hi>Preſcience makes none ſinfull;</hi> but th'offence</l>
+               <l>Of man's the chief cauſe of Gods <hi>Preſcience.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Chriſt.</head>
+               <l>TO all our wounds, here, whatſoe're they be,</l>
+               <l>
+                  <hi>Chriſt</hi> is the one ſufficient <hi>Remedie.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb n="64" facs="tcp:170728:34"/>
+               <head>Chriſts Incarnation.</head>
+               <l>CHRIST took our Nature on Him, not that He</l>
+               <l>'Bove all things lov'd it, for the puritie:</l>
+               <l>No, but He dreſt Him with our humane Trim,</l>
+               <l>Becauſe our fleſh ſtood moſt in need of Him.</l>
+            </div>
+            <div type="poem">
+               <head>Heaven.</head>
+               <l>HEaven is not given for our good works here:</l>
+               <l>Yet it is given to the <hi>Labourer.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Gods keyes.</head>
+               <l>GOD has <hi>foure keyes,</hi> which He reſerves alone;</l>
+               <l>The firſt of <hi>Raine,</hi> the key of <hi>Hell</hi> next known:</l>
+               <l>With the third key He opes and ſhuts the wombe;</l>
+               <l>And with the <hi>fourth key</hi> He unlocks the tombe.</l>
+            </div>
+            <div type="poem">
+               <head>Sin.</head>
+               <l>THere's no conſtraint to do amiſſe,</l>
+               <l>Whereas but one enforcement is.</l>
+            </div>
+            <div type="poem">
+               <head>Almes.</head>
+               <l>GIve unto all, leſt he, whom thou deni'ſt,</l>
+               <l>May chance to be no other man, but <hi>Chriſt.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Hell fire.</head>
+               <l>ONe onely fire has Hell; but yet it ſhall,</l>
+               <l>Not after one ſort, there excruciate all:</l>
+               <l>But look, how each tranſgreſſor onward went</l>
+               <l>Boldly in ſin, ſhall feel more puniſhment.</l>
+            </div>
+            <div type="poem">
+               <pb n="65" facs="tcp:170728:34"/>
+               <head>To keep a true Lent.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>IS this a Faſt, to keep</l>
+                  <l>The Larder leane?</l>
+                  <l>And cleane</l>
+                  <l>From fat of Veales, and Sheep?</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Is it to quit the diſh</l>
+                  <l>Of Fleſh, yet ſtill</l>
+                  <l>To fill</l>
+                  <l>The platter high with Fiſh?</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Is it to faſt an houre,</l>
+                  <l>Or rag'd to go,</l>
+                  <l>Or ſhow</l>
+                  <l>A down-caſt look, and ſowre?</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>No: 'tis a Faſt, to dole</l>
+                  <l>Thy ſheaf of wheat,</l>
+                  <l>And meat,</l>
+                  <l>Unto the hungry Soule.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>It is to faſt from ſtrife,</l>
+                  <l>From old debate,</l>
+                  <l>And hate;</l>
+                  <l>To circumciſe thy life.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>To ſhew a heart grief-rent;</l>
+                  <l>To ſterve thy ſin,</l>
+                  <l>Not Bin;</l>
+                  <l>And that's to keep thy Lent.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>No time in Eternitie.</head>
+               <l>BY houres we all live here, in Heaven is known</l>
+               <l>No ſpring of Time, or Times ſucceſſion.</l>
+            </div>
+            <div type="poem">
+               <pb n="66" facs="tcp:170728:35"/>
+               <head>His Meditation upon Death</head>
+               <l>BE thoſe few hours, which I have yet to ſpend,</l>
+               <l>Bleſt with the Meditation of my end:</l>
+               <l>Though they be few in number, I'm content;</l>
+               <l>If otherwiſe, I ſtand indifferent:</l>
+               <l>Nor makes it matter, <hi>Neſtors</hi> yeers to tell,</l>
+               <l>If man lives long, and if he live not well.</l>
+               <l>A multitude of dayes ſtill heaped on,</l>
+               <l>Seldome brings order, but confuſion.</l>
+               <l>Might I make choice, long life ſho'd be with-ſtood;</l>
+               <l>Nor wo'd I care how ſhort it were, if good:</l>
+               <l>Which to effect, let ev'ry paſſing Bell</l>
+               <l>Poſſeſſe my thoughts, next comes my dolefull knell:</l>
+               <l>And when the night perſwades me to my bed,</l>
+               <l>I'le thinke I'm going to be buried:</l>
+               <l>So ſhall the Blankets which come over me,</l>
+               <l>Preſent thoſe Turfs, which once muſt cover me:</l>
+               <l>And with as firme behaviour I will meet</l>
+               <l>The ſheet I ſleep in, as my Winding-ſheet.</l>
+               <l>When ſleep ſhall bath his body in mine eyes,</l>
+               <l>I will believe, that then my body dies:</l>
+               <l>And if I chance to wake, and riſe thereon,</l>
+               <l>I'le have in mind my Reſurrection,</l>
+               <l>Which muſt produce me to that <hi>Gen'rall Doome,</hi>
+               </l>
+               <l>To which the Peſant, ſo the Prince muſt come,</l>
+               <l>To heare the Judge give ſentence on the Throne,</l>
+               <l>Without the leaſt hope of affection.</l>
+               <l>Teares, at that day, ſhall make but weake defence;</l>
+               <l>When Hell and Horrour fright the Conſcience.</l>
+               <l>Let me, though late, yet at the laſt, begin</l>
+               <l>To ſhun the leaſt Temptation to a ſin;</l>
+               <l>Though to be tempted be no ſin, untill</l>
+               <l>Man to th' alluring object gives his will.</l>
+               <l>Such let my life aſſure me, when my breath</l>
+               <pb n="67" facs="tcp:170728:35"/>
+               <l>Goes theeving from me, I am ſafe in death;</l>
+               <l>Which is the height of comfort, when I fall,</l>
+               <l>I riſe triumphant in my Funerall.</l>
+            </div>
+            <div type="poem">
+               <head>Cloaths for Continuance.</head>
+               <l>THoſe Garments laſting evermore,</l>
+               <l>Are works of mercy to the poore,</l>
+               <l>Which neither Tettar, Time, or Moth</l>
+               <l>Shall fray that ſilke, or fret this cloth.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>COme to me God; but do not come</l>
+               <l>To me, as to the gen'rall Doome,</l>
+               <l>In power; or come Thou in that ſtate,</l>
+               <l>When Thou Thy Lawes didſt promulgate,</l>
+               <l>When as the Mountains quak'd for dread,</l>
+               <l>And ſullen clouds bound up his head.</l>
+               <l>No, lay thy ſtately terrours by,</l>
+               <l>To talke with me familiarly;</l>
+               <l>For if Thy thunder-claps I heare,</l>
+               <l>I ſhall leſſe ſwoone, then die for feare.</l>
+               <l>Speake thou of love and I'le reply</l>
+               <l>By way of <hi>Epithalamie,</hi>
+               </l>
+               <l>Or ſing of <hi>mercy,</hi> and I'le ſuit</l>
+               <l>To it my Violl and my Lute:</l>
+               <l>Thus let Thy lips but love diſtill,</l>
+               <l>Then come my God, and hap what will,</l>
+            </div>
+            <div type="poem">
+               <head>The Soule.</head>
+               <l>WHen once the Soule has loſt her way,</l>
+               <l>O then, how reſtleſſe do's ſhe ſtray!</l>
+               <l>And having not her God for light,</l>
+               <l>How do's ſhe erre in endleſſe night!</l>
+            </div>
+            <div type="poem">
+               <pb n="68" facs="tcp:170728:36"/>
+               <head>The Judgement day.</head>
+               <l>IN doing juſtice, God ſhall then be known,</l>
+               <l>Who ſhewing mercy here, few priz'd, or none.</l>
+            </div>
+            <div type="poem">
+               <head>Sufferings.</head>
+               <l>WE merit all we ſuffer, and by far</l>
+               <l>More ſtripes, then God layes on the ſufferer.</l>
+            </div>
+            <div type="poem">
+               <head>Paine and pleaſure.</head>
+               <l>GOD ſuffers not His Saints, and Servants deere,</l>
+               <l>To have continuall paine, or pleaſure here:</l>
+               <l>But look how night ſucceeds the day, ſo He</l>
+               <l>Gives them by turnes their grief and jollitie.</l>
+            </div>
+            <div type="poem">
+               <head>Gods preſence.</head>
+               <l>GOD is <hi>all-preſent</hi> to what e're we do,</l>
+               <l>And as <hi>all-preſent,</hi> ſo <hi>all-filling</hi> too.</l>
+            </div>
+            <div type="poem">
+               <head>Another.</head>
+               <l>TThat there's a God, we all do know,</l>
+               <l>But what God is, we cannot ſhow.</l>
+            </div>
+            <div type="poem">
+               <head>The poore mans part.</head>
+               <l>TEll me rich man, for what intent</l>
+               <l>Thou load'ſt with gold thy veſtiment?</l>
+               <l>When as the poore crie out, to us</l>
+               <l>Belongs all gold ſuperfluous.</l>
+            </div>
+            <div type="poem">
+               <pb n="69" facs="tcp:170728:36"/>
+               <head>The right hand.</head>
+               <l>GOD has a Right Hand, but is quite bereft</l>
+               <l>Of that, which we do nominate the Left.</l>
+            </div>
+            <div type="poem">
+               <head>The Staffe and Rod.</head>
+               <l>TWo inſtruments belong unto our God;</l>
+               <l>The one a <hi>Staffe</hi> is, and the next a <hi>Rod:</hi>
+               </l>
+               <l>That if the twig ſho'd chance too much to ſmart,</l>
+               <l>The ſtaffe might come to play the friendly part.</l>
+            </div>
+            <div type="poem">
+               <head>God ſparing in ſcourging.</head>
+               <l>GOD ſtill rewards us more then our deſert:</l>
+               <l>But when He ſtrikes, He quarter-acts His part.</l>
+            </div>
+            <div type="poem">
+               <head>Confeſsion.</head>
+               <l>COnfeſſion twofold is (as <hi>Austine</hi> ſayes,)</l>
+               <l>The firſt of <hi>ſin</hi> is, and the next of <hi>praiſe:</hi>
+               </l>
+               <l>If ill it goes with thee, thy faults confeſſe:</l>
+               <l>If well, then chant Gods praiſe with cheerfulneſſe.</l>
+            </div>
+            <div type="poem">
+               <head>Gods deſcent.</head>
+               <l>GOD is then ſaid for to deſcend, when He</l>
+               <l>Doth, here on earth, ſome thing of novitie;</l>
+               <l>As when, in humane nature He works more</l>
+               <l>Then ever, yet, the like was done before.</l>
+            </div>
+            <div type="poem">
+               <head>No coming to God without Chriſt.</head>
+               <l>
+                  <hi>GOod and great God!</hi> How ſho'd I feare</l>
+               <l>To come to Thee, if <hi>Chriſt</hi> not there!</l>
+               <pb n="70" facs="tcp:170728:37"/>
+               <l>Co'd I but think, He would not be</l>
+               <l>Preſent, to plead my cauſe for me;</l>
+               <l>To Hell I'd rather run, then I</l>
+               <l>Wo'd ſee Thy Face, and He not by.</l>
+            </div>
+            <div type="poem">
+               <head>Another, to God.</head>
+               <l>THough Thou beeſt all that <hi>Active Love,</hi>
+               </l>
+               <l>Which heats thoſe raviſht Soules above;</l>
+               <l>And though all joyes ſpring from the glance</l>
+               <l>Of Thy moſt winning countenance;</l>
+               <l>Yet ſowre and grim Thou'dſt ſeem to me;</l>
+               <l>If through my <hi>Chriſt</hi> I ſaw not Thee.</l>
+            </div>
+            <div type="poem">
+               <head>The Reſurrection.</head>
+               <l>THat <hi>Chriſt</hi> did die, the <hi>Pagan</hi> ſaith;</l>
+               <l>But that He roſe, that's <hi>Chriſtians</hi> Faith.</l>
+            </div>
+            <div type="poem">
+               <head>Coheires.</head>
+               <l>WE are Coheires with <hi>Chriſt;</hi> nor ſhall His own</l>
+               <l>
+                  <hi>Heire-ſhip</hi> be leſſe, by our adoption:</l>
+               <l>The number here of Heires, ſhall from the ſtate</l>
+               <l>Of His great <hi>Birth-right</hi> nothing derogate.</l>
+            </div>
+            <div type="poem">
+               <head>The number of two.</head>
+               <l>GOD hates the <hi>Duall Number;</hi> being known</l>
+               <l>The luckleſſe number of diviſion:</l>
+               <l>And when He bleſt each ſev'rall Day, whereon</l>
+               <l>He did His <hi>curious operation;</hi>
+               </l>
+               <l>'Tis never read there (as the Fathers ſay,)</l>
+               <l>God bleſt His work done on the <hi>ſecond day:</hi>
+               </l>
+               <l>Wherefore two prayers ought not to be ſaid,</l>
+               <l>Or by our ſelves, or from the Pulpit read.</l>
+            </div>
+            <div type="poem">
+               <pb n="71" facs="tcp:170728:37"/>
+               <head>Hardning of hearts.</head>
+               <l>GOD's ſaid our hearts to harden then,</l>
+               <l>When as His grace not ſupples men.</l>
+            </div>
+            <div type="poem">
+               <head>The Roſe.</head>
+               <l>BEfore Mans fall, the Roſe was born</l>
+               <l>(S. <hi>Ambroſe</hi> ſayes) without the Thorn:</l>
+               <l>But, for Mans fault, then was the Thorn,</l>
+               <l>Without the fragrant Roſe-bud, born;</l>
+               <l>But ne're the Roſe without the Thorn.</l>
+            </div>
+            <div type="poem">
+               <head>Gods time muſt end our trouble.</head>
+               <l>GOD doth not promiſe here to man, that He</l>
+               <l>Will free him quickly from his miſerie;</l>
+               <l>But in His own time, and when He thinks fit,</l>
+               <l>Then He will give a happy end to it.</l>
+            </div>
+            <div type="poem">
+               <head>Baptiſme.</head>
+               <l>THe ſtrength of <hi>Baptiſme,</hi> that's within;</l>
+               <l>It ſaves the ſoule, by drowning ſin.</l>
+            </div>
+            <div type="poem">
+               <head>Gold and Frankincenſe.</head>
+               <l>
+                  <hi>GOld</hi> ſerves for Tribute to the King;</l>
+               <l>The <hi>Frankincenſe</hi> for Gods Offring.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>GOD, who me gives a will for to repent,</l>
+               <l>Will add a power, to keep me innocent;</l>
+               <l>That I ſhall ne're that treſpaſſe recommit,</l>
+               <l>When I have done true Penance here for it.</l>
+            </div>
+            <div type="poem">
+               <pb n="72" facs="tcp:170728:38"/>
+               <head>The chewing the Cud.</head>
+               <l>WHen well we ſpeak, &amp; nothing do that's good,</l>
+               <l>We not divide the <hi>Hoof,</hi> but chew the <hi>Cud:</hi>
+               </l>
+               <l>But when good words, by good works, have their proof,</l>
+               <l>We then both chew the <hi>Cud,</hi> and cleave the <hi>Hoof.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Chriſts twofold coming.</head>
+               <l>THy former coming was to cure</l>
+               <l>My ſoules moſt deſp'rate <hi>Calenture;</hi>
+               </l>
+               <l>Thy ſecond <hi>Advent,</hi> that muſt be</l>
+               <l>To heale my Earths infirmitie.</l>
+            </div>
+            <div type="poem">
+               <head>To God, his gift.</head>
+               <l>AS my little Pot doth boyle,</l>
+               <l>We will keep this <hi>Levell-Coyle;</hi>
+               </l>
+               <l>That a <hi>Wave,</hi> and I will bring</l>
+               <l>To my God, a <hi>Heave-offering.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Gods Anger.</head>
+               <l>GOD can't be wrathfull; but we may conclude,</l>
+               <l>Wrathfull He may be, by ſimilitude:</l>
+               <l>God's wrathfull ſaid to be, when He doth do</l>
+               <l>That without <hi>wrath,</hi> which wrath doth <hi>force us</hi> to.</l>
+            </div>
+            <div type="poem">
+               <head>Gods Commands.</head>
+               <l>IN Gods Commands, ne're ask the reaſon why;</l>
+               <l>Let thy <hi>obedience</hi> be the beſt Reply.</l>
+            </div>
+            <div type="poem">
+               <pb n="73" facs="tcp:170728:38"/>
+               <head>To God.</head>
+               <l>IF I have plaid the <hi>Truant,</hi> or have here</l>
+               <l>Fail'd in my part; O! Thou that art my <hi>deare,</hi>
+               </l>
+               <l>My <hi>mild,</hi> my <hi>loving Tutor, Lord and God!</hi>
+               </l>
+               <l>Correct my errors gently with Thy Rod.</l>
+               <l>I know, that faults will many here be found,</l>
+               <l>But where ſin ſwells, there let Thy grace abound.</l>
+            </div>
+            <div type="poem">
+               <head>To God.</head>
+               <l>THe work is done; now let my <hi>Lawrell</hi> be</l>
+               <l>Given by none, but by Thy ſelfe, to me:</l>
+               <l>That done, with Honour Thou doſt me create</l>
+               <l>Thy <hi>Poet,</hi> and Thy <hi>Prophet Lawreat.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Good Friday: <hi>Rex Tragicus,</hi> or Chriſt going to His Croſſe.</head>
+               <l>PUt off Thy Robe of <hi>Purple,</hi> then go on</l>
+               <l>To the ſad place of execution:</l>
+               <l>Thine houre is come; and the Tormentor ſtands</l>
+               <l>Ready, to pierce Thy tender Feet, and Hands.</l>
+               <l>Long before this, the baſe, the dull, the rude,</l>
+               <l>Th' inconſtant, and unpurged Multitude</l>
+               <l>Yawne for Thy coming; ſome e're this time crie,</l>
+               <l>How He deferres, how loath He is to die!</l>
+               <l>Amongſt this ſcumme, the Souldier, with his ſpeare,</l>
+               <l>And that ſowre Fellow, with his <hi>vineger,</hi>
+               </l>
+               <l>His <hi>ſpunge,</hi> and <hi>ſtick,</hi> do ask why Thou doſt ſtay?</l>
+               <l>So do the <hi>Skurfe</hi> and <hi>Bran</hi> too: Go Thy way,</l>
+               <l>Thy way, Thou guiltleſſe man, and ſatisfie</l>
+               <l>By Thine approach, each their beholding eye.</l>
+               <l>Not as a thief, ſhalt Thou aſcend the mount,</l>
+               <l>But like a Perſon of ſome high account:</l>
+               <pb n="74" facs="tcp:170728:39"/>
+               <l>The <hi>Croſſe</hi> ſhall be Thy <hi>Stage;</hi> and Thou ſhalt there</l>
+               <l>The ſpacious field have for Thy <hi>Theater.</hi>
+               </l>
+               <l>Thou art that <hi>Roſcius,</hi> and that markt-out man,</l>
+               <l>That muſt this day act the Tragedian,</l>
+               <l>To wonder and affrightment: Thou art He,</l>
+               <l>Whom all the flux of Nations comes to ſee;</l>
+               <l>Not thoſe poor Theeves that act their parts with Thee:</l>
+               <l>Thoſe act without regard, when once a <hi>King,</hi>
+               </l>
+               <l>And <hi>God,</hi> as Thou art, comes to ſuffering.</l>
+               <l>No, No, this <hi>Scene</hi> from Thee takes life and ſenſe,</l>
+               <l>And ſoule and ſpirit plot, and excellence.</l>
+               <l>Why then begin, great King! aſcend Thy Throne,</l>
+               <l>And thence proceed, to act Thy Paſſion</l>
+               <l>To ſuch an height, to ſuch a period rais'd,</l>
+               <l>As Hell, and Earth, and Heav'n may ſtand amaz'd.</l>
+               <l>God, and good Angells guide Thee; and ſo bleſſe</l>
+               <l>Thee in Thy ſeverall parts of bitterneſſe;</l>
+               <l>That thoſe, who ſee Thee nail'd unto the Tree,</l>
+               <l>May (though they ſcorn Thee) praiſe and pitie Thee.</l>
+               <l>And we (Thy Lovers) while we ſee Thee keep</l>
+               <l>The Lawes of Action, will both ſigh, and weep;</l>
+               <l>And bring our Spices, to embalm Thee dead;</l>
+               <l>That done, wee'l ſee Thee ſweetly buried.</l>
+            </div>
+            <div type="poem">
+               <head>His words to Chriſt, going to the Croſſe.</head>
+               <l>WHen Thou waſt taken, Lord, I oft have read,</l>
+               <l>All Thy Diſciples Thee forſook, and fled.</l>
+               <l>Let their example not a pattern be</l>
+               <l>For me to flie, but now to follow Thee.</l>
+            </div>
+            <div type="poem">
+               <head>Another, to his Saviour.</head>
+               <l>IF Thou beeſt taken, <hi>God</hi> forbid,</l>
+               <l>I flie from Thee, as others did:</l>
+               <l>But if Thou wilt ſo honour me,</l>
+               <pb n="75" facs="tcp:170728:39"/>
+               <l>As to accept my companie,</l>
+               <l>I'le follow Thee, hap, hap what ſhall,</l>
+               <l>Both to the <hi>Judge,</hi> and <hi>Judgment-Hall:</hi>
+               </l>
+               <l>And, if I ſee Thee poſted there,</l>
+               <l>To be all-flayd with whipping-cheere,</l>
+               <l>I'le take my ſhare; or els, my God,</l>
+               <l>Thy ſtripes I'le kiſſe, or burn the <hi>Rod.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>His Saviours words, going to the Croſſe.</head>
+               <lg>
+                  <l>HAve, have ye no regard, all ye</l>
+                  <l>Who paſſe this way, to pitie me,</l>
+                  <l>Who am a man of miſerie!</l>
+               </lg>
+               <lg>
+                  <l>A man both bruis'd, and broke, and one</l>
+                  <l>Who ſuffers not here for mine own,</l>
+                  <l>But for my friends <hi>tranſgreſſion!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Ah! <hi>Sions Daughters,</hi> do not feare</l>
+                  <l>The <hi>Croſſe,</hi> the <hi>Cords,</hi> the <hi>Nailes,</hi> the <hi>Speare,</hi>
+                  </l>
+                  <l>The <hi>Myrrhe,</hi> the <hi>Gall,</hi> the <hi>Vineger:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For <hi>Chriſt,</hi> your loving Saviour, hath</l>
+                  <l>Drunk up the wine of Gods fierce wrath;</l>
+                  <l>Onely, there's left a little froth,</l>
+               </lg>
+               <lg>
+                  <l>Leſſe for to taſt, then for to ſhew,</l>
+                  <l>What bitter cups had been your due,</l>
+                  <l>Had He not drank them up for <hi>you.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>His Anthem, to Chriſt on the Croſſe.</head>
+               <lg>
+                  <l>WHen I behold Thee, almoſt ſlain,</l>
+                  <l>With one, and all parts, full of pain:</l>
+                  <l>When I Thy gentle Heart do ſee</l>
+                  <l>Pierc't through, and dropping bloud, for me,</l>
+                  <pb n="76" facs="tcp:170728:40"/>
+                  <l>I'le call, and cry out, Thanks to Thee.</l>
+               </lg>
+               <lg>
+                  <head>Verſ.</head>
+                  <l>But yet it wounds my ſoule, to think,</l>
+                  <l>That for my ſin, Thou, Thou muſt drink,</l>
+                  <l>Even Thou alone, the <hi>bit<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er cup</hi>
+                  </l>
+                  <l>Of <hi>furie,</hi> and of <hi>vengeance</hi> up.</l>
+               </lg>
+               <lg>
+                  <head>Chor.</head>
+                  <l>Lord, I'le not ſee Thee to drink all</l>
+                  <l>The <hi>Vineger,</hi> the <hi>Myrrhe,</hi> the <hi>Gall:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Ver. Chor.</head>
+                  <l>But I will ſip a little wine;</l>
+                  <l>Which done, Lord ſay, <hi>The reſt is mine.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="concrete_poem">
+               <pb facs="tcp:170728:40"/>
+               <head>
+                  <l>This Croſſe Tree here</l>
+                  <l>Doth <hi>JESUS</hi> beare,</l>
+                  <l>Who ſweet'ned firſt,</l>
+                  <l>The Death accurs't.</l>
+               </head>
+               <l>HEre all things ready are, make haſt, make haſt away;</l>
+               <l>For, long this work wil be, &amp; very ſhort this Day.</l>
+               <l>Why then, go on to act: Here's wonders to be done,</l>
+               <l>Before the laſt leaſt ſand of Thy ninth houre be run;</l>
+               <l>Or e're dark Clouds do dull, or dead the Mid-dayes Sun.</l>
+               <l>Act when Thou wilt,</l>
+               <l>Bloud will be ſpilt;</l>
+               <l>Pure Balm, that ſhall</l>
+               <l>Bring Health to All.</l>
+               <l>Why then, Begin</l>
+               <l>To powre firſt in</l>
+               <l>Some Drops of Wine,</l>
+               <l>In ſtead of Brine,</l>
+               <l>To ſearch the Wound,</l>
+               <l>So long unſound:</l>
+               <l>And, when that's done,</l>
+               <l>Let Oyle, next, run,</l>
+               <l>To cure the Sore</l>
+               <l>Sinne made before.</l>
+               <l>And O! Deare Chriſt,</l>
+               <l>E'en as Thou di'ſt,</l>
+               <l>Look down, and ſee</l>
+               <l>Us weepe for Thee.</l>
+               <l>And tho (Love knows)</l>
+               <l>Thy dreadfull Woes</l>
+               <l>Wee cannot eaſe;</l>
+               <l>Yet doe Thou pleaſe,</l>
+               <l>Who Mercie art,</l>
+               <l>T'accept each Heart,</l>
+               <l>That gladly would</l>
+               <l>Helpe, if it could.</l>
+               <l>Meane while, let mee,</l>
+               <l>Beneath this Tree,</l>
+               <l>This Honour have,</l>
+               <l>To make my grave.</l>
+            </div>
+            <div type="poem">
+               <pb n="78" facs="tcp:170728:41"/>
+               <head>To his Saviours Sepulcher: his Devotion.</head>
+               <l>HAile holy, and all-honour'd Tomb,</l>
+               <l>By no ill haunted; here I come,</l>
+               <l>With ſhoes put off, to tread thy Roome.</l>
+               <l>I'le not prophane, by ſoile of ſin,</l>
+               <l>Thy Doore, as I do enter in:</l>
+               <l>For I have waſht both hand and heart,</l>
+               <l>This, that, and ev'ry other part;</l>
+               <l>So that I dare, with farre leſſe feare,</l>
+               <l>Then full affection, enter here.</l>
+               <l>Thus, thus I come to kiſſe Thy Stone</l>
+               <l>With a warm lip, and ſolemne one:</l>
+               <l>And as I kiſſe, I'le here and there</l>
+               <l>Dreſſe Thee with flowrie Diaper.</l>
+               <l>How ſweet this place is! as from hence</l>
+               <l>Flow'd all <hi>Panchaia's</hi> Frankincenſe;</l>
+               <l>Or rich <hi>Arabia</hi> did commix,</l>
+               <l>Here, all her rare <hi>Aromaticks.</hi>
+               </l>
+               <l>Let me live ever here, and ſtir</l>
+               <l>No one ſtep from this <hi>Sepulcher.</hi>
+               </l>
+               <l>Raviſht I am! and down I lie,</l>
+               <l>Confus'd, in this brave Extaſie.</l>
+               <l>Here let me reſt; and let me have</l>
+               <l>This for my <hi>Heaven,</hi> that was Thy <hi>Grave:</hi>
+               </l>
+               <l>And, coveting no higher ſphere,</l>
+               <l>I'le my Eternitie ſpend here.</l>
+            </div>
+            <div type="poem">
+               <head>His Offering, with the reſt, at the Sepulcher.</head>
+               <l>TO joyn with them, who here confer</l>
+               <l>Gifts to my Saviours Sepulcher;</l>
+               <l>Devotion bids me hither being</l>
+               <l>Somwhat for my Thank-Offering.</l>
+               <pb n="79" facs="tcp:170728:41"/>
+               <l>Loe! Thus I give a Virgin-Flower,</l>
+               <l>To dreſſe my Maiden-Saviour.</l>
+            </div>
+            <div type="poem">
+               <head>His coming to the Sepulcher.</head>
+               <lg>
+                  <l>HEnce they have born my Lord: Behold! the Stone</l>
+                  <l>Is rowl'd away; and my ſweet Saviour's gone!</l>
+                  <l>Tell me, white Angell; what is now become</l>
+                  <l>Of Him, we lately ſeal'd up in this Tombe?</l>
+                  <l>Is He, from hence, gone to the ſhades beneath,</l>
+                  <l>To vanquiſh Hell, as here He conquer'd Death?</l>
+                  <l>If ſo; I'le thither follow, without feare;</l>
+                  <l>And live in Hell, if that my <hi>Chriſt</hi> ſtayes there.</l>
+               </lg>
+               <lg>
+                  <l>OF all the good things whatſoe're we do,</l>
+                  <l>God is the ΑΡΧΗ, and the ΤΕΛΟΣ too.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
